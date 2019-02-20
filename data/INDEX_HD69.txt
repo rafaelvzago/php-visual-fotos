@@ -1,0 +1,109 @@
+.
+./.fseventsd
+./CAS.CIINTIA-E-EVERSON 20-05-2016-IMAGES-MARCAO/20-05-16-Visual-SO-IMAGES-MARCAO
+./CAS.CIINTIA-E-EVERSON 20-05-2016-IMAGES-MARCAO/20-05-16-Visual-SO-IMAGES-MARCAO/Audio/ZOOM0001
+./CAS.CIINTIA-E-EVERSON 20-05-2016-IMAGES-MARCAO/20-05-16-Visual-SO-IMAGES-MARCAO/Audio/ZOOM0002
+./CAS.CIINTIA-E-EVERSON 20-05-2016-IMAGES-MARCAO/20-05-16-Visual-SO-IMAGES-MARCAO/Audio/ZOOM0003
+./Extras
+./Extras/WD SES Device Driver
+./Locale
+./Locale/cs_CZ.lproj
+./Locale/de_DE.lproj
+./Locale/en_US.lproj
+./Locale/es_ES.lproj
+./Locale/fr_FR.lproj
+./Locale/hu_HU.lproj
+./Locale/it_IT.lproj
+./Locale/ja_JP.lproj
+./Locale/ko_KR.lproj
+./Locale/nb_NO.lproj
+./Locale/nl_NL.lproj
+./Locale/pl_PL.lproj
+./Locale/pt_BR.lproj
+./Locale/ru_RU.lproj
+./Locale/sv_SE.lproj
+./Locale/tr_TR.lproj
+./Locale/zh_CN.lproj
+./Locale/zh_TW.lproj
+./My Passport Apps for Mac
+./User Manuals/ARA
+./User Manuals/CHS
+./User Manuals/CHT
+./User Manuals/CZE
+./User Manuals/DAN
+./User Manuals/DEU
+./User Manuals/ENG
+./User Manuals/ESN
+./User Manuals/FIN
+./User Manuals/FRA
+./User Manuals/GRE
+./User Manuals/HUN
+./User Manuals/ITA
+./User Manuals/JPN
+./User Manuals/KOR
+./User Manuals/NLD
+./User Manuals/NOR
+./User Manuals/POL
+./User Manuals/POR
+./User Manuals/RON
+./User Manuals/RUS
+./User Manuals/SVK
+./User Manuals/SWE
+./User Manuals/TUR
+./WD Apps for Windows
+./WD Apps for Windows/XP64
+./casamento_Aline e Bruno/29 AGOSTO 2015 - CASAMENTO COM GRUA - LEANDRAO
+./casamento_Aline e Bruno/29 AGOSTO 2015 - CASAMENTO COM GRUA - LEANDRAO/PRIVATE
+./casamento_Aline e Bruno/29 AGOSTO 2015 - CASAMENTO COM GRUA - LEANDRAO/PRIVATE/AVCHD/BDMV
+./casamento_Aline e Bruno/29 AGOSTO 2015 - CASAMENTO COM GRUA - LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Aline e Bruno/29 AGOSTO 2015 - CASAMENTO COM GRUA - LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Aline e Bruno/29 AGOSTO 2015 - CASAMENTO COM GRUA - LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Bruna e Cristian/5D 1
+./casamento_Bruna e Cristian/5D 2
+./casamento_Bruna e Cristian/AUDIO
+./casamento_Bruna e Cristian/CELSO 1
+./casamento_Bruna e Cristian/CELSO 2
+./casamento_Bruna e Cristian/CELSO 3
+./casamento_Bruna e Cristian/CELSO 4
+./casamento_Bruna e Cristian/CELSO AUDIO
+./casamento_Bruna e Cristian/EDSON
+./casamento_Bruna e Cristian/GOPRO
+./casamento_Bruna e Cristian/T51 CAIO 1
+./casamento_Bruna e Cristian/T5I CAIO 2
+./casamento_Denise e Ricardo/5D
+./casamento_Denise e Ricardo/AUDIO
+./casamento_Denise e Ricardo/CAIO 01
+./casamento_Denise e Ricardo/CAIO 02
+./casamento_Denise e Ricardo/CAIO 03
+./casamento_Denise e Ricardo/EDSON
+./casamento_Denise e Ricardo/GOPRO
+./casamento_Juliana e Daniel/AUDIO DR40
+./casamento_Juliana e Daniel/CAIO 1
+./casamento_Juliana e Daniel/CAIO 2
+./casamento_Juliana e Daniel/CAIO 3
+./casamento_Juliana e Daniel/EDSON
+./casamento_Simone e Anderson/5d
+./casamento_Simone e Anderson/AUDIO
+./casamento_Simone e Anderson/AUDIO DR040
+./casamento_Simone e Anderson/CAIO
+./casamento_Simone e Anderson/CELSO 1
+./casamento_Simone e Anderson/CELSO 2
+./casamento_Simone e Anderson/CELSO 3
+./casamento_Simone e Anderson/GOPRO
+./casamento_Vanessa e Anderson/RICARDO/VANESSA E ANDERSON/29 AGOSTO 2015 - CASAMENTO VANESSA E ANDERSON/5D RICARDO
+./casamento_Vanessa e Anderson/RICARDO/VANESSA E ANDERSON/29 AGOSTO 2015 - CASAMENTO VANESSA E ANDERSON/70 D EDSON
+./casamento_Vanessa e Anderson/RICARDO/VANESSA E ANDERSON/29 AGOSTO 2015 - CASAMENTO VANESSA E ANDERSON/7D RICARDO
+./casamento_Vanessa e Anderson/RICARDO/VANESSA E ANDERSON/29 AGOSTO 2015 - CASAMENTO VANESSA E ANDERSON/AUDIO
+./casamento_Vanessa e Anderson/RICARDO/VANESSA E ANDERSON/29 AGOSTO 2015 - CASAMENTO VANESSA E ANDERSON/final making of
+./niver_Lavinia - 2014/Aniversario Lavignia
+./niver_Lavinia - 2015
+./niver_Luiz Felipe - 2015/EDSON
+./niver_Nicole - 15 anos/5D-1
+./niver_Nicole - 15 anos/AUDIO-2
+./niver_Nicole - 15 anos/AUDIO/audio15 anos Nicole
+./niver_Nicole - 15 anos/AUDIO/audio15 anos Nicole/MUSIC
+./niver_Nicole - 15 anos/EDSOM
+./niver_Nicole - 15 anos/GRUA-1
+./niver_Nicole - 15 anos/IGOR-1
+./niver_Nicole - 15 anos/IGOR-2
+./niver_Nicole - 15 anos/T51-

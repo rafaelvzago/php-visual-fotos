@@ -1,0 +1,143 @@
+./.fseventsd
+./AUDIO CAS. CRISTIAN E MONICA 29-09-2018/MUSIC
+./CAM CAMILA CAS JESSICA E FELIPE 22-09-2018/100CANON
+./CAS. BRENDA E RENATO 08-09-2018
+./CAS. BRENDA E RENATO 08-09-2018/CAMILA
+./CAS. BRENDA E RENATO 08-09-2018/Drone Renato e Brenda (NÃO APAGAR)
+./CAS.BARBARA-E-ADRIANO-IMAGEM-EDSOM-18-06-2016/EDSON
+./CAS.JESSICA E WILLIAM 22-09-2018/CAM HELIO/PRIVATE/AVCHD/BDMV
+./CAS.JESSICA E WILLIAM 22-09-2018/CAM HELIO/PRIVATE/AVCHD/BDMV/CLIPINF
+./CAS.JESSICA E WILLIAM 22-09-2018/CAM HELIO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./CAS.JESSICA E WILLIAM 22-09-2018/CAM HELIO/PRIVATE/AVCHD/BDMV/STREAM
+./CAS.JESSICA E WILLIAM 22-09-2018/CAM HELIO/PRIVATE/M4ROOT
+./CAS.JESSICA E WILLIAM 22-09-2018/CAM HELIO/PRIVATE/SONY
+./CAS.JESSICA E WILLIAM 22-09-2018/CAM HELIO/PRIVATE/XDROOT
+./CAS.JESSICA E WILLIAM 22-09-2018/CAM-WELLINGTOM
+./CAS.RAMAOM E RAISSA 22-09-2018/AUDIO/MUSIC
+./CAS.RAMAOM E RAISSA 22-09-2018/CAM 02/100CANON
+./CAS.RAMAOM E RAISSA 22-09-2018/CAM EDSOM/100CANON
+./Extras
+./Extras/WD SES Device Driver
+./FERNANDA E GUILHERME 29-09-2018 LEANDRAO
+./FOTOS JULIA CAS.JESSICA E FELIPE/CA M JULIA/100CANON
+./FOTOS JULIA CAS.JESSICA E FELIPE/CA M JULIA/101CANON
+./Fotos Francielle e Emerson
+./JENIFER E GIOGIO 21-09-2018/AUDIO
+./JENIFER E GIOGIO 21-09-2018/CAM LEANDRAO/100CANON
+./JENIFER E GIOGIO 21-09-2018/CAM WELLINGTOM
+./LARISSA E DOUGLAS 22-09-2018/FOTOS IGOR
+./LARISSA E DOUGLAS 22-09-2018/VIDEO/PARTE 1
+./LARISSA E DOUGLAS 22-09-2018/VIDEO/PARTE 2
+./Seagate/Registration
+./albuns -caio/Larissa e Leonardo 05-11
+./albuns -caio/Larissa e Leonardo 05-11/01
+./albuns -caio/Larissa e Leonardo 05-11/02
+./albuns -caio/Larissa e Leonardo 05-11/03
+./albuns -caio/Larissa e Leonardo 05-11/04
+./albuns -caio/Larissa e Leonardo 05-11/05
+./albuns -caio/Larissa e Leonardo 05-11/06
+./albuns -caio/Larissa e Leonardo 05-11/07
+./albuns -caio/Larissa e Leonardo 05-11/08
+./albuns -caio/Larissa e Leonardo 05-11/09
+./albuns -caio/Larissa e Leonardo 05-11/10
+./albuns -caio/Larissa e Leonardo 05-11/11
+./albuns -caio/Larissa e Leonardo 05-11/12
+./albuns -caio/Larissa e Leonardo 05-11/13
+./albuns -caio/Larissa e Leonardo 05-11/14
+./albuns -caio/Larissa e Leonardo 05-11/15
+./albuns -caio/Larissa e Leonardo 05-11/16
+./albuns -caio/Larissa e Leonardo 05-11/17
+./albuns -caio/Larissa e Leonardo 05-11/18
+./albuns -caio/Larissa e Leonardo 05-11/19
+./albuns -caio/Larissa e Leonardo 05-11/20
+./albuns -caio/Larissa e Leonardo 05-11/21
+./albuns -caio/Larissa e Leonardo 05-11/22
+./albuns -caio/Larissa e Leonardo 05-11/23
+./albuns -caio/Larissa e Leonardo 05-11/24
+./albuns -caio/Larissa e Leonardo 05-11/25
+./albuns -caio/Larissa e Leonardo 05-11/26
+./albuns -caio/Larissa e Leonardo 05-11/27
+./albuns -caio/Larissa e Leonardo 05-11/28
+./albuns -caio/Larissa e Leonardo 05-11/29
+./albuns -caio/Larissa e Leonardo 05-11/30
+./albuns -caio/Larissa e Leonardo 05-11/31
+./albuns -caio/Larissa e Leonardo 05-11/32
+./albuns -caio/Larissa e Leonardo 05-11/33
+./albuns -caio/Larissa e Leonardo 05-11/34
+./albuns -caio/Larissa e Leonardo 05-11/35
+./albuns -caio/Larissa e Leonardo 05-11/36
+./albuns -caio/Larissa e Leonardo 05-11/Larissa e Leonardo
+./albuns -caio/Larissa e Leonardo 05-11/Larissa e Leonardo/jpg
+./cas.TAIS E DANILO-08-09-2018/70D
+./cas.TAIS E DANILO-08-09-2018/AUDIO
+./cas.TAIS E DANILO-08-09-2018/NX5/PRIVATE/AVCHD/BDMV
+./cas.TAIS E DANILO-08-09-2018/NX5/PRIVATE/AVCHD/BDMV/CLIPINF
+./cas.TAIS E DANILO-08-09-2018/NX5/PRIVATE/AVCHD/BDMV/PLAYLIST
+./cas.TAIS E DANILO-08-09-2018/NX5/PRIVATE/AVCHD/BDMV/STREAM
+./cas.TAIS E DANILO-08-09-2018/NX5/PRIVATE/M4ROOT
+./cas.TAIS E DANILO-08-09-2018/NX5/PRIVATE/PANA_GRP/PAVC/LUMIX
+./cas.TAIS E DANILO-08-09-2018/NX5/PRIVATE/SONY
+./cas.TAIS E DANILO-08-09-2018/OSMO/100MEDIA
+./casamento_Alessandra e Marcelo/70D
+./casamento_Alessandra e Marcelo/AUDIO
+./casamento_Alessandra e Marcelo/CAIO 6D1
+./casamento_Alessandra e Marcelo/CAIO6D2
+./casamento_Alessandra e Marcelo/CAIO6D3
+./casamento_Alessandra e Marcelo/CAIO6D4
+./casamento_Alessandra e Marcelo/EDSON 5D1
+./casamento_Alessandra e Marcelo/EDSON 5D2
+./casamento_Alessandra e Marcelo/GOPRO
+./casamento_Alessandra e Marcelo/T5I
+./casamento_Camila e Edvan/AUDIO-LUAM/STEREO
+./casamento_Camila e Edvan/Audio Banda Igreja
+./casamento_Camila e Edvan/EDSOM
+./casamento_Camila e Edvan/LUAM-1
+./casamento_Camila e Edvan/LUAM-2
+./casamento_Camila e Edvan/MARCAO/11.06.2016/Audio Banda Igreja
+./casamento_Camila e Edvan/MARCAO/11.06.2016/Video
+./casamento_Mariana e Ricardo/5D EDSON
+./casamento_Mariana e Ricardo/6D CAIO 1
+./casamento_Mariana e Ricardo/6D CAIO 2
+./casamento_Mariana e Ricardo/70D
+./casamento_Mariana e Ricardo/AUDIO DR40
+./casamento_Mariana e Ricardo/GOPRO
+./casamento_Mariana e Ricardo/T51
+./casamento_Michele e Paulo
+./casamento_Michele e Paulo/Cartao 1
+./casamento_Michele e Paulo/Cartao 2
+./casamento_Michele e Paulo/Cartao 3
+./casamento_Michele e Paulo/Cartao 4
+./casamento_Michele e Paulo/Cartao 5
+./casamento_Viviane e Gustavo
+./casamento_Viviane e Gustavo/5D
+./casamento_Viviane e Gustavo/7D
+./casamento_Viviane e Gustavo/AUDIO
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 1
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 1/PRIVATE
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 1/PRIVATE/AVCHD/BDMV
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 1/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 1/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 1/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 2
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 2/PRIVATE/AVCHD/BDMV
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 2/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 2/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Viviane e Gustavo/NX5 - LEANDRAO/CARTAO 2/PRIVATE/AVCHD/BDMV/STREAM
+./ensaio guaruja igor junior cliente sidia/audio
+./ensaio guaruja igor junior cliente sidia/fotos
+./ensaio guaruja igor junior cliente sidia/video/100CANON
+./fotos cas ANDRE E FERNANDA 29-09-2018/CAM 01
+./niver_Isabella - 15 anos/AUDIO-CAIXA
+./niver_Isabella - 15 anos/AUDIO-DIERETO
+./niver_Isabella - 15 anos/EDSOM
+./niver_Isabella - 15 anos/IGOR-1
+./niver_Isabella - 15 anos/IGOR-2
+./niver_Isabella - 15 anos/WELLIGTOM
+./niver_Julia - 15 anos/AUDIO DR40
+./niver_Julia - 15 anos/CAIO 5D 1
+./niver_Julia - 15 anos/CAIO 5D 2
+./niver_Julia - 15 anos/EDSON 70D
+./niver_Julia - 15 anos/GOPRO
+./niver_Julia - 15 anos/IGOR 5D1
+./niver_Julia - 15 anos/IGOR 5D2

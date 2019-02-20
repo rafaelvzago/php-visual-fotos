@@ -1,0 +1,117 @@
+.
+./ALine e Filipe
+./ANA_LIVIA_15 anos/AUDIO
+./ANA_LIVIA_15 anos/CAIO
+./ANA_LIVIA_15 anos/MARCOS
+./BRUNA E RODRIGO-18-03-2017/LUAM/01/DCIM/100CANON
+./BRUNA E RODRIGO-18-03-2017/LUAM/01/DCIM/EOSMISC
+./BRUNA E RODRIGO-18-03-2017/LUAM/01/System Volume Information
+./BRUNA E RODRIGO-18-03-2017/LUAM/osmo/DCIM/100MEDIA
+./BRUNA E RODRIGO-18-03-2017/LUAM/osmo/MISC/IDX
+./BRUNA E RODRIGO-18-03-2017/LUAM/osmo/MISC/LOG
+./BRUNA E RODRIGO-18-03-2017/LUAM/osmo/MISC/THM/100
+./BRUNA E RODRIGO-18-03-2017/LUAM/osmo/System Volume Information
+./BRUNA E RODRIGO-18-03-2017/WELLIGTOM
+./BRUNA E RODRIGO-18-03-2017/audio
+./Bianca Blanco_Aniversario_14_02_2017_/01/DCIM/100CANON
+./Bianca Blanco_Aniversario_14_02_2017_/01/DCIM/EOSMISC
+./Bianca Blanco_Aniversario_14_02_2017_/01/System Volume Information
+./Bianca Blanco_Aniversario_14_02_2017_/02/DCIM/100CANON
+./Bianca Blanco_Aniversario_14_02_2017_/02/DCIM/EOSMISC
+./Bianca Blanco_Aniversario_14_02_2017_/02/System Volume Information
+./Bianca Blanco_Aniversario_14_02_2017_/Bianca_Blanco_14_02_2017_osmo/Osmo/DCIM/100MEDIA
+./Bianca Blanco_Aniversario_14_02_2017_/Bianca_Blanco_14_02_2017_osmo/Osmo/MISC/IDX
+./Bianca Blanco_Aniversario_14_02_2017_/Bianca_Blanco_14_02_2017_osmo/Osmo/MISC/LOG
+./Bianca Blanco_Aniversario_14_02_2017_/Bianca_Blanco_14_02_2017_osmo/Osmo/MISC/THM/100
+./Bianca Blanco_Aniversario_14_02_2017_/Bianca_Blanco_14_02_2017_osmo/Osmo/System Volume Information
+./Bianca Blanco_Aniversario_14_02_2017_/audio
+./Bruna e Alex-18-02-2017/audio/MUSIC
+./Bruna e Alex-18-02-2017/edsom
+./Bruna e Alex-18-02-2017/welligtom
+./FLAVIA E FLAVIO_15.01.2017/AUDIO/CERIMONIA
+./FLAVIA E FLAVIO_15.01.2017/AUDIO/RECEPCAO
+./FLAVIA E FLAVIO_15.01.2017/CAIO
+./FLAVIA E FLAVIO_15.01.2017/EDSON
+./FLAVIA E FLAVIO_15.01.2017/MARCOS
+./FRANCIELE E FELIPE_11.03.2017/Audio
+./FRANCIELE E FELIPE_11.03.2017/Canon T5i
+./FRANCIELE E FELIPE_11.03.2017/Edson
+./FRANCIELE E FELIPE_11.03.2017/Marcos
+./FRANCIELE E FELIPE_11.03.2017/WELLINGTON
+./Lidiane e Joao Paulo_18_02/01/DCIM/100CANON
+./Lidiane e Joao Paulo_18_02/01/DCIM/EOSMISC
+./Lidiane e Joao Paulo_18_02/01/System Volume Information
+./Lidiane e Joao Paulo_18_02/02/DCIM/100CANON
+./Lidiane e Joao Paulo_18_02/02/DCIM/EOSMISC
+./Lidiane e Joao Paulo_18_02/02/System Volume Information
+./Lidiane e Joao Paulo_18_02/03/DCIM/100CANON
+./Lidiane e Joao Paulo_18_02/03/DCIM/EOSMISC
+./Lidiane e Joao Paulo_18_02/03/System Volume Information
+./Lidiane e Joao Paulo_18_02/04/DCIM/100CANON
+./Lidiane e Joao Paulo_18_02/04/DCIM/EOSMISC
+./Lidiane e Joao Paulo_18_02/04/System Volume Information
+./Lidiane e Joao Paulo_18_02/CAMILA-1
+./Lidiane e Joao Paulo_18_02/CAMILA-2
+./Lidiane e Joao Paulo_18_02/Osmo2/DCIM/100MEDIA
+./Lidiane e Joao Paulo_18_02/Osmo2/MISC/IDX
+./Lidiane e Joao Paulo_18_02/Osmo2/MISC/LOG
+./Lidiane e Joao Paulo_18_02/Osmo2/MISC/THM/100
+./Lidiane e Joao Paulo_18_02/Osmo2/System Volume Information
+./Lidiane e Joao Paulo_18_02/audio
+./Lidiane e Joao Paulo_18_02/audio 2
+./Lidiane e Joao Paulo_18_02/cartao alexandre
+./Lidiane e Joao Paulo_18_02/cartao alexandre/DCIM/100D5200
+./Lidiane e Joao Paulo_18_02/cartao alexandre/System Volume Information
+./Lidiane e Joao Paulo_18_02/osmo1/DCIM/100MEDIA
+./Lidiane e Joao Paulo_18_02/osmo1/MISC/IDX
+./Lidiane e Joao Paulo_18_02/osmo1/MISC/LOG
+./Lidiane e Joao Paulo_18_02/osmo1/MISC/THM/100
+./Lidiane e Joao Paulo_18_02/osmo1/System Volume Information
+./MELISE E THIAGO_14.01.2017/AUDIO/CERIMONIA
+./MELISE E THIAGO_14.01.2017/AUDIO/RECEPCAO
+./MELISE E THIAGO_14.01.2017/EDSON
+./MELISE E THIAGO_14.01.2017/MARCOS
+./MELISE E THIAGO_14.01.2017/MARCOS/100CANON
+./MELISE E THIAGO_14.01.2017/MARCOS/101CANON
+./MELISE E THIAGO_14.01.2017/cas_14_01_2017_Melise e Thiago/01/DCIM/100CANON
+./MELISE E THIAGO_14.01.2017/cas_14_01_2017_Melise e Thiago/01/DCIM/EOSMISC
+./MELISE E THIAGO_14.01.2017/cas_14_01_2017_Melise e Thiago/01/System Volume Information
+./MELISE E THIAGO_14.01.2017/cas_14_01_2017_Melise e Thiago/02/DCIM/100CANON
+./MELISE E THIAGO_14.01.2017/cas_14_01_2017_Melise e Thiago/02/DCIM/EOSMISC
+./MELISE E THIAGO_14.01.2017/cas_14_01_2017_Melise e Thiago/02/System Volume Information
+./MELISE E THIAGO_14.01.2017/cas_14_01_2017_Melise e Thiago/audio
+./Maria Julia_15 anos 11_03_17/01/DCIM/100CANON
+./Maria Julia_15 anos 11_03_17/01/System Volume Information
+./Maria Julia_15 anos 11_03_17/02/DCIM/100CANON
+./Maria Julia_15 anos 11_03_17/02/DCIM/EOSMISC
+./Maria Julia_15 anos 11_03_17/02/System Volume Information
+./Maria Julia_15 anos 11_03_17/03/DCIM/100CANON
+./Maria Julia_15 anos 11_03_17/03/DCIM/EOSMISC
+./Maria Julia_15 anos 11_03_17/03/System Volume Information
+./Maria Julia_15 anos 11_03_17/04/DCIM/100CANON
+./Maria Julia_15 anos 11_03_17/04/System Volume Information
+./Maria Julia_15 anos 11_03_17/05/DCIM/100CANON
+./Maria Julia_15 anos 11_03_17/05/DCIM/EOSMISC
+./Maria Julia_15 anos 11_03_17/05/System Volume Information
+./Maria Julia_15 anos 11_03_17/06/DCIM/100CANON
+./Maria Julia_15 anos 11_03_17/06/System Volume Information
+./Maria Julia_15 anos 11_03_17/audio
+./Maria Julia_15 anos 11_03_17/gopro/DCIM/112GOPRO
+./Maria Julia_15 anos 11_03_17/gopro/MISC
+./Maria Julia_15 anos 11_03_17/gopro/System Volume Information
+./Maria Julia_15 anos 11_03_17/osmo/DCIM/100MEDIA
+./Maria Julia_15 anos 11_03_17/osmo/MISC/IDX
+./Maria Julia_15 anos 11_03_17/osmo/MISC/LOG
+./Maria Julia_15 anos 11_03_17/osmo/MISC/THM/100
+./Maria Julia_15 anos 11_03_17/osmo/System Volume Information
+./NATALY E LUCAS-11-03-2017/CAMILA-1
+./NATALY E LUCAS-11-03-2017/CAMILA-2
+./NATALY E LUCAS-11-03-2017/CELSO-1
+./NATALY E LUCAS-11-03-2017/CELSO-2
+./NATALY E LUCAS-11-03-2017/audio-1/MUSIC
+./NATALY E LUCAS-11-03-2017/audio-celso/STEREO/FOLDER01
+./NATALY E LUCAS-11-03-2017/leadrao
+./Seagate/Registration
+./Stephany e Allan
+./Stephany e Allan/cartao 01/100D5200
+./Stephany e Allan/cartão 02/100D5200

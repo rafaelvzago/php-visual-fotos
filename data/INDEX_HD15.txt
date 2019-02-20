@@ -1,0 +1,112 @@
+.
+./.fseventsd
+./Cas._Taysa e Erick-06-02-2015/FOTO/Camera 2
+./Cas._Taysa e Erick-06-02-2015/VIDEO/Cartao 1
+./Cas._Taysa e Erick-06-02-2015/VIDEO/Cartao 2
+./Cas._Taysa e Erick-06-02-2015/VIDEO/Cartao 3
+./Cas._Taysa e Erick-06-02-2015/VIDEO/Cartao 4
+./Cas._Taysa e Erick-06-02-2015/VIDEO/Cartao 5
+./Cas._Taysa e Erick-06-02-2015/VIDEO/Cartao 6
+./Priscila e Willian - Conrado/Cartao 1
+./Priscila e Willian - Conrado/Cartao 2
+./Priscila e Willian - Conrado/Cartao 3
+./Priscila e Willian - Conrado/Cartao 4
+./Priscila e Willian - Conrado/Cartao 6
+./casamento_Bianca e Wiliam/5D
+./casamento_Bianca e Wiliam/7D
+./casamento_Bianca e Wiliam/AUDIO
+./casamento_Bianca e Wiliam/NX5 - LEANDRAO
+./casamento_Bianca e Wiliam/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV
+./casamento_Bianca e Wiliam/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Bianca e Wiliam/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Bianca e Wiliam/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Elson e Vanessa/5D IGOR
+./casamento_Elson e Vanessa/5D IGOR 2
+./casamento_Elson e Vanessa/AUDIO TASCAM - VANESSA E ELSON
+./casamento_Elson e Vanessa/ELSON E VANESSA CAM 5D
+./casamento_Elson e Vanessa/T5I
+./casamento_Fernanda e Nino/5D CAMILA PARTE 1
+./casamento_Fernanda e Nino/5D CAMILA PARTE 2
+./casamento_Fernanda e Nino/70D 1
+./casamento_Fernanda e Nino/70D 2
+./casamento_Fernanda e Nino/Fernanda e Nino ( CELSO )/100CANON
+./casamento_Fernanda e Nino/Fernanda e Nino ( CELSO )/100CANON 1
+./casamento_Fernanda e Nino/Fernanda e Nino ( CELSO )/Audio
+./casamento_Fernanda e Nino/T5I
+./casamento_Gabriela e Laender/AUDIO
+./casamento_Gabriela e Laender/CAM LEANDRO - NX5
+./casamento_Mariana e Fabricio
+./casamento_Mariana e Fabricio/AUDIO
+./casamento_Mariana e Fabricio/CAM 1 - RICARDO
+./casamento_Mariana e Fabricio/CAM 1 - RICARDO/MAKING OF
+./casamento_Mariana e Fabricio/CAM 2 - EDSON
+./casamento_Mariana e Fabricio/CAM NX5 - LEANDRINHO
+./casamento_Mariana e Fabricio/CAM NX5 - LEANDRINHO/PRIVATE
+./casamento_Mariana e Fabricio/CAM NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV
+./casamento_Mariana e Fabricio/CAM NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Mariana e Fabricio/CAM NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Mariana e Fabricio/CAM NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Mariana e Fabricio/making of fabricio
+./casamento_Marina e Douglas/AUDIO
+./casamento_Marina e Douglas/CAM EDSON 5D
+./casamento_Marina e Douglas/CELSO CARTÃO 01
+./casamento_Marina e Douglas/CELSO CARTÃO 02
+./casamento_Marina e Douglas/T5I 2 PARTE
+./casamento_Marina e Douglas/T5I CAMILA
+./casamento_Nara e Andre/Cam Celso 1
+./casamento_Nara e Andre/Cam Celso 2
+./casamento_Nara e Andre/NX5 ALUGADA- LEANDRAO
+./casamento_Nara e Andre/NX5 ALUGADA- LEANDRAO/PRIVATE/AVCHD/BDMV
+./casamento_Nara e Andre/NX5 ALUGADA- LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Nara e Andre/NX5 ALUGADA- LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Nara e Andre/NX5 ALUGADA- LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Nara e Andre/NX5 ALUGADA- LEANDRAO/PRIVATE/SONY
+./casamento_Renata e Leandro
+./casamento_Renata e Leandro/AUDIO
+./casamento_Renata e Leandro/CAM LEANDRO - NX5
+./casamento_Renata e Leandro/CAM RICARDO - 5D
+./casamento_Renata e Leandro/CAM RICARDO - 7D
+./casamento_Simone e Felipe
+./casamento_Simone e Felipe/AUDIO
+./casamento_Simone e Felipe/CAM 5D
+./casamento_Simone e Felipe/CAM 7D
+./casamento_Simone e Felipe/NX5 - LEANDRAO
+./casamento_Simone e Felipe/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV
+./casamento_Simone e Felipe/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Simone e Felipe/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Simone e Felipe/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Thais e Kaique/5D 1
+./casamento_Thais e Kaique/5D 2
+./casamento_Thais e Kaique/AUDIO DR40
+./casamento_Thais e Kaique/Celso/1
+./casamento_Thais e Kaique/Celso/2
+./casamento_Thais e Kaique/T5I
+./casamento_Vanessa e Rodolfo
+./casamento_Vanessa e Rodolfo/5D
+./casamento_Vanessa e Rodolfo/AUDIO
+./casamento_Vanessa e Rodolfo/CANON T51
+./casamento_Vanessa e Rodolfo/NX5 - LEANDRINHO
+./casamento_Vanessa e Rodolfo/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV
+./casamento_Vanessa e Rodolfo/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Vanessa e Rodolfo/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Vanessa e Rodolfo/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Vanessa e Rodolfo/NX5 - LEANDRINHO/PRIVATE/SONY
+./fusion_Carol e Sandro/5D
+./fusion_Carol e Sandro/70D
+./fusion_Carol e Sandro/AUDIO
+./fusion_Helen e Rene/5D
+./fusion_Helen e Rene/T5I
+./fusion_Lucas e Mariana/5D
+./fusion_Lucas e Mariana/T5I
+./fusion_Lucas e Mariana/audio
+./fusion_Lucas e Mariana/cam depoimento 1
+./fusion_Lucas e Mariana/cam depoimento 2
+./fusion_Michel e Erica
+./fusion_Thaine e Felipe/5D
+./fusion_Thaine e Felipe/AUDIO
+./fusion_Thaine e Felipe/T5I
+./fusion_Thais e Kaique/01
+./fusion_Thais e Kaique/02
+./fusion_Thais e Kaique/03
+./niver_Rafaela/Cam 1
+./niver_Rafaela/Cam 2

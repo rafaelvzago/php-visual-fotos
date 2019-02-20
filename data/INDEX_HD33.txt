@@ -1,0 +1,77 @@
+./$RECYCLE.BIN
+./Niver_Julia/AUDIO
+./Niver_Julia/EDSO
+./casamento_Danubia e Leandro/5D
+./casamento_Danubia e Leandro/AUDIO 1
+./casamento_Danubia e Leandro/AUDIO 2
+./casamento_Danubia e Leandro/EDSON 1
+./casamento_Danubia e Leandro/EDSON 2
+./casamento_Danubia e Leandro/GOPRO
+./casamento_Danubia e Leandro/IMAGENS CELSO/Audio ficou top/STEREO/FOLDER01
+./casamento_Danubia e Leandro/IMAGENS CELSO/Cartão 001/DCIM/100CANON
+./casamento_Danubia e Leandro/IMAGENS CELSO/Cartão 001/DCIM/EOSMISC
+./casamento_Danubia e Leandro/IMAGENS CELSO/Cartão 002/DCIM/100CANON
+./casamento_Danubia e Leandro/IMAGENS CELSO/Cartão 002/DCIM/EOSMISC
+./casamento_Danubia e Leandro/IMAGES BUFFET
+./casamento_Danubia e Leandro/WELLINGTON 1
+./casamento_Danubia e Leandro/WELLINGTON 2
+./casamento_Danubia e Leandro/WELLINGTON 3
+./casamento_Elaine e Luiz/CELSO/Elaine e Luiz 16012016/Audio top
+./casamento_Elaine e Luiz/CELSO/Elaine e Luiz 16012016/Cartão001/DCIM/100CANON
+./casamento_Elaine e Luiz/CELSO/Elaine e Luiz 16012016/Cartão001/DCIM/EOSMISC
+./casamento_Elaine e Luiz/CELSO/Elaine e Luiz 16012016/Cartão002/DCIM/100CANON
+./casamento_Elaine e Luiz/CELSO/Elaine e Luiz 16012016/Cartão002/DCIM/EOSMISC
+./casamento_Elaine e Luiz/EDSON
+./casamento_Elaine e Luiz/T5I-1
+./casamento_Elaine e Luiz/audio a
+./casamento_Elaine e Luiz/audio b
+./casamento_Elaine e Luiz/t5i-2
+./casamento_Fernanda e Fabiano/AUDIO
+./casamento_Fernanda e Fabiano/CÂMERA 01
+./casamento_Fernanda e Fabiano/CÂMERA 02
+./casamento_Fernanda e Fabiano/CÂMERA 02 CARTÃO 02
+./casamento_Juliana e Gustavo/AUDIO 1
+./casamento_Juliana e Gustavo/AUDIO 2
+./casamento_Juliana e Gustavo/cam 01 Caio
+./casamento_Juliana e Gustavo/cam 01 parte 2
+./casamento_Juliana e Gustavo/cam 02 weligton
+./casamento_Juliana e Gustavo/cam 03 Edson
+./casamento_Mariane e Fabricio/5D1
+./casamento_Mariane e Fabricio/5D2
+./casamento_Mariane e Fabricio/AUDIO
+./casamento_Mariane e Fabricio/EDSON
+./casamento_Mariane e Fabricio/WELLIGNTON 1
+./casamento_Mariane e Fabricio/WELLIGTO2
+./casamento_Rafaela e Ruan/AUDIO LUAN/STEREO
+./casamento_Rafaela e Ruan/Audio/STEREO/FOLDER01
+./casamento_Rafaela e Ruan/Cartão 001/DCIM/100CANON
+./casamento_Rafaela e Ruan/Cartão 001/DCIM/EOSMISC
+./casamento_Rafaela e Ruan/Cartão 002/DCIM/100CANON
+./casamento_Rafaela e Ruan/Cartão 002/DCIM/EOSMISC
+./casamento_Rafaela e Ruan/LUAN 1
+./casamento_Rafaela e Ruan/LUAN 2
+./casamento_Simone e Elcio/AUDIO/STEREO
+./casamento_Simone e Elcio/EDSO-1
+./casamento_Simone e Elcio/LUAN 1
+./casamento_Simone e Elcio/LUAN 2
+./casamento_Thalita e Eduardo/5D-01-WELLIGTON
+./casamento_Thalita e Eduardo/5D-02-WELIGTO
+./casamento_Thalita e Eduardo/AUDIO PADRE
+./casamento_Thalita e Eduardo/AUDIO-ORQUESTRA-E-BANDA
+./casamento_Thalita e Eduardo/IMAGES-ISLADER-VESTIDO-
+./casamento_Thalita e Eduardo/LUA-01
+./casamento_Thalita e Eduardo/LUA-02
+./casamento_Thalita e Eduardo/T5I
+./casamento_amanda e Mike/AUDIO 1
+./casamento_amanda e Mike/AUDIO 2
+./casamento_amanda e Mike/EDSON
+./casamento_amanda e Mike/GOPRO
+./casamento_amanda e Mike/IMAGENS CELSO/DCIM/100CANON
+./casamento_amanda e Mike/IMAGENS CELSO/DCIM/EOSMISC
+./casamento_amanda e Mike/IMAGENS CELSO/STEREO/FOLDER01
+./casamento_amanda e Mike/WELLINGTON 1
+./casamento_amanda e Mike/WELLINGTON 2
+./fusion_Thais e Anderson/1
+./fusion_Thais e Anderson/2
+./fusion_Thais e Anderson/DEPOIMENTO
+./fusion_Thais e Anderson/audio

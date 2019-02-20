@@ -1,0 +1,65 @@
+.
+./IGOR
+./IGOR/IGOR
+./Seagate/Registration
+./casamento_Daniele e Cristiano/CELSO/Cristiano e Daniele 30012016/Audio/Gravador Zoom - Cerimonia e Festa
+./casamento_Daniele e Cristiano/CELSO/Cristiano e Daniele 30012016/Audio/Sony
+./casamento_Daniele e Cristiano/CELSO/Cristiano e Daniele 30012016/Audio/Sony/A
+./casamento_Daniele e Cristiano/CELSO/Cristiano e Daniele 30012016/Cartão001/DCIM/100CANON
+./casamento_Daniele e Cristiano/CELSO/Cristiano e Daniele 30012016/Cartão001/DCIM/EOSMISC
+./casamento_Daniele e Cristiano/CELSO/Cristiano e Daniele 30012016/Cartão002/DCIM/100CANON
+./casamento_Daniele e Cristiano/CELSO/Cristiano e Daniele 30012016/Cartão002/DCIM/EOSMISC
+./casamento_Daniele e Cristiano/CELSO/Cristiano e Daniele 30012016/Cartão003/DCIM/100CANON
+./casamento_Daniele e Cristiano/CELSO/Cristiano e Daniele 30012016/Cartão003/DCIM/EOSMISC
+./casamento_Daniele e Cristiano/MARCÃO
+./casamento_Fernanda e Thiago/AUDIO-02
+./casamento_Fernanda e Thiago/AUDIO-1
+./casamento_Fernanda e Thiago/CAM-IGOR-1
+./casamento_Fernanda e Thiago/CAM-IGOR-2
+./casamento_Fernanda e Thiago/DECORAÇAO-1
+./casamento_Fernanda e Thiago/FOTOS-CAM-IGOR
+./casamento_Fernanda e Thiago/HELIO-01
+./casamento_Fernanda e Thiago/HELIO-02
+./casamento_Fernanda e Thiago/WELLIGTOM-1
+./casamento_Fernanda e Thiago/WELLIGTOM-2
+./casamento_Juliana e Leandro/CAM. 01
+./casamento_Juliana e Leandro/CAM. 02
+./casamento_Juliana e Leandro/MUSIC/DR40_0001/DR40_0000
+./casamento_Leticia Franco e Rafael/AUDIO
+./casamento_Leticia Franco e Rafael/AUDIO 2 BALADA
+./casamento_Leticia Franco e Rafael/GOPRO TIME LAPSO/DCIM/101GOPRO
+./casamento_Leticia Franco e Rafael/HELIO 1
+./casamento_Leticia Franco e Rafael/HELIO 2
+./casamento_Leticia Franco e Rafael/NX5/PRIVATE/AVCHD/BDMV
+./casamento_Leticia Franco e Rafael/NX5/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Leticia Franco e Rafael/NX5/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Leticia Franco e Rafael/NX5/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Leticia Franco e Rafael/WELLINGTON
+./casamento_Priscila e Fernando/AUDIO
+./casamento_Priscila e Fernando/CAM. 01
+./casamento_Priscila e Fernando/CAM. 02
+./casamento_Priscila e Fernando/IMAGEM-CAMILA/AUDIO
+./casamento_Priscila e Fernando/IMAGEM-CAMILA/CAMILA
+./casamento_Renata e José Ricardo
+./casamento_Thais e Caio/AUDIO-1-PADRE
+./casamento_Thais e Caio/AUDIO-ORQUESTRA
+./casamento_Thais e Caio/CAIO-1
+./casamento_Thais e Caio/CAIO-2
+./casamento_Thais e Caio/GOPRO
+./casamento_Thais e Caio/HELIO-1
+./casamento_Thais e Caio/HELIO-2
+./casamento_Thais e Caio/WELLIGTOM-1
+./casamento_Thais e Caio/WELLIGTOM-2
+./casamento_Thais e Renato/AUDIO
+./casamento_Thais e Renato/CAIO-1
+./casamento_Thais e Renato/CAIO-2
+./casamento_Thais e Renato/EDSON 1
+./casamento_Thais e Renato/EDSON-2
+./casamneto_Larissa e Erick/CAM. 01
+./casamneto_Larissa e Erick/CAM. 02
+./casamneto_Larissa e Erick/MUSIC
+./retro_Karina e Diego/retro/Nova pasta
+./retro_Karina e Diego/retro/Nova pasta (2)
+./retro_Karina e Diego/retro/Nova pasta (3)
+./retro_Karina e Diego/retro/Nova pasta (4)
+./retro_Karina e Diego/retro/dois juntos

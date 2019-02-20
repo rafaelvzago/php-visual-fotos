@@ -1,0 +1,40 @@
+.
+./Alexsandro e Mariana 06.05.17/Audio
+./Alexsandro e Mariana 06.05.17/Caue
+./Alexsandro e Mariana 06.05.17/Luiz
+./Bianca e Victor 15.07.17/Audio
+./Bianca e Victor 15.07.17/Audio2
+./Bianca e Victor 15.07.17/Caue
+./Bianca e Victor 15.07.17/Leandro
+./Bianca e Victor 15.07.17/Luiz
+./Bruno e Natalia 21.04.17/Audio
+./Bruno e Natalia 21.04.17/Caue
+./Bruno e Natalia 21.04.17/Luiz
+./Bruno e Natalia 21.04.17/Wellington
+./Danielle e Daniel 22.04.17 Luiz e Neno/Audio
+./Danielle e Daniel 22.04.17 Luiz e Neno/Luiz
+./Danielle e Daniel 22.04.17 Luiz e Neno/Neno
+./Ensaio Ilha das Couves 12.07.17/Audio
+./Ensaio Ilha das Couves 12.07.17/Caue/Monope
+./Ensaio Ilha das Couves 12.07.17/Caue/Steady Slider
+./Ensaio Ilha das Couves 12.07.17/Drone
+./Ensaio Ilha das Couves 12.07.17/Marcao
+./Fernanda e Rafael 22.04.17/Audio
+./Fernanda e Rafael 22.04.17/Caue
+./Fernanda e Rafael 22.04.17/Josué
+./Giovanna 05.05.17/Audio
+./Giovanna 05.05.17/Caue
+./Giovanna 05.05.17/Luiz
+./Giovanna 05.05.17/Marcos
+./Larissa e Evandro 24.06.17/Audio
+./Larissa e Evandro 24.06.17/Audio 2
+./Larissa e Evandro 24.06.17/Caue
+./Larissa e Evandro 24.06.17/Luiz
+./Pamela e Felipe 08.07.17/Audio
+./Pamela e Felipe 08.07.17/Audio2
+./Pamela e Felipe 08.07.17/Caue
+./Pamela e Felipe 08.07.17/Luiz
+./Seagate/Registration
+./Tais e Raphael 20.05.17/Audio
+./Tais e Raphael 20.05.17/Caue
+./Tais e Raphael 20.05.17/Luiz

@@ -1,0 +1,87 @@
+.
+./.fseventsd
+./Seagate/Registration
+./casamento _Gabriela e Adriano/5D RICARDO
+./casamento _Gabriela e Adriano/7D RICARDO
+./casamento _Gabriela e Adriano/AUDIO
+./casamento _Gabriela e Adriano/NX5 LEANDRAO/private/AVCHD/BDMV
+./casamento _Gabriela e Adriano/NX5 LEANDRAO/private/AVCHD/BDMV/CLIPINF
+./casamento _Gabriela e Adriano/NX5 LEANDRAO/private/AVCHD/BDMV/PLAYLIST
+./casamento _Gabriela e Adriano/NX5 LEANDRAO/private/AVCHD/BDMV/STREAM
+./casamento_Bruna e Bruno/5D RICARDO
+./casamento_Bruna e Bruno/7D RICARDO
+./casamento_Bruna e Bruno/AUDIO
+./casamento_Bruna e Bruno/NX5 LEANDRAO/PRIVATE/AVCHD/BDMV
+./casamento_Bruna e Bruno/NX5 LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Bruna e Bruno/NX5 LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Bruna e Bruno/NX5 LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Caroline e Rodolfo/70D - EDSON
+./casamento_Caroline e Rodolfo/7D - RICARDO
+./casamento_Caroline e Rodolfo/AUDIO CERIMONIA/AUDIO CERIMONIA - GRAVADOR RICARDO - DIRETO MESA DE SOM
+./casamento_Caroline e Rodolfo/AUDIO CERIMONIA/AUDIO CERIMONIA - GRAVADOR VISUAL
+./casamento_Caroline e Rodolfo/AUDIO FESTA
+./casamento_Caroline e Rodolfo/MAKING LOCAL FESTA
+./casamento_Caroline e Rodolfo/MAKING OF NOIVO
+./casamento_Caroline e Rodolfo/NX5 - DANILO/PRIVATE/AVCHD/BDMV
+./casamento_Caroline e Rodolfo/NX5 - DANILO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Caroline e Rodolfo/NX5 - DANILO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Caroline e Rodolfo/NX5 - DANILO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Daiane e Felipe/5D - RICARDO
+./casamento_Daiane e Felipe/5D - RICARDO - DECORACAO IGREJA
+./casamento_Daiane e Felipe/7D - LEANDRAO - MAKING OF
+./casamento_Daiane e Felipe/7D - RICARDO
+./casamento_Daiane e Felipe/AUDIO
+./casamento_Daiane e Felipe/NX5 - RICARDO - LEANDRAO/CARTAO 1/private/AVCHD/BDMV
+./casamento_Daiane e Felipe/NX5 - RICARDO - LEANDRAO/CARTAO 1/private/AVCHD/BDMV/CLIPINF
+./casamento_Daiane e Felipe/NX5 - RICARDO - LEANDRAO/CARTAO 1/private/AVCHD/BDMV/PLAYLIST
+./casamento_Daiane e Felipe/NX5 - RICARDO - LEANDRAO/CARTAO 1/private/AVCHD/BDMV/STREAM
+./casamento_Daiane e Felipe/NX5 - RICARDO - LEANDRAO/CARTAO 2/PRIVATE/AVCHD/BDMV
+./casamento_Daiane e Felipe/NX5 - RICARDO - LEANDRAO/CARTAO 2/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Daiane e Felipe/NX5 - RICARDO - LEANDRAO/CARTAO 2/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Daiane e Felipe/NX5 - RICARDO - LEANDRAO/CARTAO 2/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Daniele e Felipe/7D - RICARDO
+./casamento_Daniele e Felipe/AUDIO
+./casamento_Daniele e Felipe/MAKING OF - CERIMONIA E FESTA
+./casamento_Daniele e Felipe/NX5 - RICARDO/CARTAO 1/PRIVATE/AVCHD/BDMV
+./casamento_Daniele e Felipe/NX5 - RICARDO/CARTAO 1/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Daniele e Felipe/NX5 - RICARDO/CARTAO 1/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Daniele e Felipe/NX5 - RICARDO/CARTAO 1/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Daniele e Felipe/NX5 - RICARDO/CARTAO 2/PRIVATE/AVCHD/BDMV
+./casamento_Daniele e Felipe/NX5 - RICARDO/CARTAO 2/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Daniele e Felipe/NX5 - RICARDO/CARTAO 2/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Daniele e Felipe/NX5 - RICARDO/CARTAO 2/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Fernanda e Anderson/5D - RICARDO
+./casamento_Fernanda e Anderson/70D - EDSON
+./casamento_Fernanda e Anderson/7D - RICARDO - SOZINHA ALTAR
+./casamento_Fernanda e Anderson/AUDIO
+./casamento_Fernanda e Anderson/NX5 - RICARDO/PRIVATE/AVCHD/BDMV
+./casamento_Fernanda e Anderson/NX5 - RICARDO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Fernanda e Anderson/NX5 - RICARDO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Fernanda e Anderson/NX5 - RICARDO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Geisa e Carlos/5D - RICARDO
+./casamento_Geisa e Carlos/7D - RICARDO
+./casamento_Geisa e Carlos/AUDIO
+./casamento_Geisa e Carlos/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV
+./casamento_Geisa e Carlos/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Geisa e Carlos/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Geisa e Carlos/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Gisele e Nilton/5D - RICARDO
+./casamento_Gisele e Nilton/7D - RICARDO
+./casamento_Gisele e Nilton/AUDIO
+./casamento_Gisele e Nilton/FOTOS ALIANCA
+./casamento_Gisele e Nilton/NX5 - DANILO/CARTAO 1/PRIVATE/AVCHD/BDMV
+./casamento_Gisele e Nilton/NX5 - DANILO/CARTAO 1/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Gisele e Nilton/NX5 - DANILO/CARTAO 1/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Gisele e Nilton/NX5 - DANILO/CARTAO 1/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Gisele e Nilton/NX5 - DANILO/CARTAO 2/PRIVATE/AVCHD/BDMV
+./casamento_Gisele e Nilton/NX5 - DANILO/CARTAO 2/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Gisele e Nilton/NX5 - DANILO/CARTAO 2/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Gisele e Nilton/NX5 - DANILO/CARTAO 2/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Leticia e Bruno/5D - RICARDO
+./casamento_Leticia e Bruno/7D - RICARDO
+./casamento_Leticia e Bruno/AUDIO
+./casamento_Leticia e Bruno/FOTOS ALIANCA - LIVIA
+./casamento_Leticia e Bruno/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV
+./casamento_Leticia e Bruno/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Leticia e Bruno/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Leticia e Bruno/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM

@@ -1,0 +1,598 @@
+.
+./Amanda e Mike
+./CANNES/PRE WEDDING CAROL E ROGERIO/Cam 01
+./CANNES/PRE WEDDING CAROL E ROGERIO/cAM 02
+./ENSAIO 2015/BRUNA E BRUNO ENSAIO 05-10-15/ENSAIO
+./ENSAIO 2015/DANIELA APARECIDA E TIAGO ENSAIO -27-02-15
+./ENSAIO 2015/DANIELA E JOSÉ LUIZ ENSIAO 11-03-15
+./ENSAIO 2015/DANIELEN E HENRIQUE ENSAIO 25-03-15
+./ENSAIO 2015/ELSON E VANESSA ENSAIO 05-03-15
+./ENSAIO 2015/HENRIQUE E JOSE ENSAIO - 04-11-15/HENRIQUE e JOSE
+./ENSAIO 2015/JESSICA E BETO ENSAIO 03-03-15
+./ENSAIO 2015/JESSICA E BETO ENSAIO 03-03-15/Estudio
+./ENSAIO 2015/JESSICA E BETO ENSAIO 03-03-15/Quadro Vivo
+./ENSAIO 2015/JOSY E GUSTAVO ENSAIO 03-12-15/ENSAIO
+./ENSAIO 2015/JULIANA E CAITANO - ENSAIO 09-09-15/CAM01
+./ENSAIO 2015/JULIANA E CAITANO - ENSAIO 09-09-15/Ensaio 02
+./ENSAIO 2015/KARINA E RENATO ENSAIO 10-02-15
+./ENSAIO 2015/LETICIA E BRUNO ENSAIO -05-08-15
+./ENSAIO 2015/LUCIMARA E DIOGO ENSAIO 22-07-15
+./ENSAIO 2015/Leandro e Juliana ENSAIO 19-11-15/Ensaio
+./ENSAIO 2015/MARIANA E LUCAS ENSAIO 08-03-15/ENSAIO
+./ENSAIO 2015/NATALIA E PAULO ENSAIO 05-04-15
+./ENSAIO 2015/NATALIA E RODRIGO ENSAIO 25-09-15
+./ENSAIO 2015/NAYARA E DIEGO ENSAIO 24-09-15
+./ENSAIO 2015/PATRICIA E FABIO ENSAIO -28-04-15
+./ENSAIO 2015/PATRIZIA E RAFAEL ENSAIO 25-09-15
+./ENSAIO 2015/PAULA E WILLIAM  MACEDO ENSAIO 11-07-2015/ENSAIO
+./ENSAIO 2015/SAMARA E LEANDRO ENSAIO 01-03-15
+./ENSAIO 2015/VANESSA E ANDERSON ENSAIO 06-08-15
+./ENSAIO 2015/VIVIANE E GUSTAVO ENSAIO 22-03-15
+./ENSAIO 2016/15 ANOS  JULIA -ENSAIO 28-09-16
+./ENSAIO 2016/15 Anos Julia Selikane - Ensaio 10-08-16
+./ENSAIO 2016/15 anos Yanee - Ensaio 19-07-16/Ensaio
+./ENSAIO 2016/ADRIANA E AILTON 1-09-16/ensaio/100CANON
+./ENSAIO 2016/ADRIANA E AILTON 1-09-16/ensaio/101CANON
+./ENSAIO 2016/ALINE  e EDSON ENSAIO
+./ENSAIO 2016/ALINE E BRUNO ENSAIO
+./ENSAIO 2016/ALINE E FELIPE - 23-09-16/ENSAIO
+./ENSAIO 2016/ALINE E FELIPE - ensaio 23-11-16
+./ENSAIO 2016/ALINE E WESLEY ENSAIO
+./ENSAIO 2016/ALLAN E STEPHANY - ENSAIO 31-10-16
+./ENSAIO 2016/AMANDA E DENIS ENSAIO
+./ENSAIO 2016/AMANDA E RICARDO/ENSAIO
+./ENSAIO 2016/ANA PAULA E LEONARDO- ENSAIO05-10-16
+./ENSAIO 2016/ANNY E THIAGO - ENSAIO 20-12-16
+./ENSAIO 2016/ARIANE e ROGELIO ENSAIO
+./ENSAIO 2016/Aline e Raydson - Ensaio
+./ENSAIO 2016/Aline e Ricardo - Ensaio
+./ENSAIO 2016/Aline e Wellignton - Ensaio - 28-07-16
+./ENSAIO 2016/Amanda e Andre/ENSAIO
+./ENSAIO 2016/André e Nayara19-09-16
+./ENSAIO 2016/Anne Caroline e João - Ensaio 12-07-16
+./ENSAIO 2016/Ariane e Daniel ENSAIO/Ensaio
+./ENSAIO 2016/BIANCA - 15 ANOS - ENSAIO 01-11-16
+./ENSAIO 2016/BLANDA E  JESUEL ENSAIO21-09-16
+./ENSAIO 2016/BRUNA E KLEBER 22-09-16 ENSAIO
+./ENSAIO 2016/BRUNA e LUIZ - Ensaio 08-08-16/ENSAIO
+./ENSAIO 2016/Bianca e Rodrigo - Ensaio
+./ENSAIO 2016/Bruna e Neto - Ensaio- 27-10-16
+./ENSAIO 2016/CAMILA E RAFAEL- ENSAIO 10-10-16
+./ENSAIO 2016/CHAENE e FABIO 01-02-16 - ENSAIO/ENSAIO
+./ENSAIO 2016/CLARA E GUSTAVO  ENSAIO 14-11-16
+./ENSAIO 2016/Camila e Fabricio ENSAIO - 23-10-16
+./ENSAIO 2016/Camila e Sidnei ENSAIO
+./ENSAIO 2016/Carolina E Daniel - Ensaio
+./ENSAIO 2016/Cristiane e Wellington 26-07-16 ENSAIO/ensaio
+./ENSAIO 2016/Daiane e fernando - ensaio 10-10-16
+./ENSAIO 2016/Daniela e Elton - Ensaio - 05-10-16
+./ENSAIO 2016/ELISANGELA E JOÃO- ENSAIO 13-09-16
+./ENSAIO 2016/ENSAIO NATERCIA 24-11-16
+./ENSAIO 2016/EVILIN E RODRIGO - ensaio 29-09-16
+./ENSAIO 2016/Elania e Donizete ENSAIO 19-10-16
+./ENSAIO 2016/Elania e Donizete ENSAIO 19-10-16/02
+./ENSAIO 2016/Elessandra e Daniel - Ensaio - 09-09-16/ensaio
+./ENSAIO 2016/Elizangela e Fernando ENSAIO
+./ENSAIO 2016/Emiliana e Nelson/Ensaio
+./ENSAIO 2016/Emiliana e Nelson/Nelson e Emiliana
+./ENSAIO 2016/FRANCINE E RODRIGO
+./ENSAIO 2016/FRANCINE E RODRIGO/JPEG
+./ENSAIO 2016/Fabiana e Marcelo ENSAIO - 21-05-16
+./ENSAIO 2016/Fernanda e Rafael - Ensaio
+./ENSAIO 2016/Fernanda e Vinicius - ensaio 17-10-16
+./ENSAIO 2016/Flavia e Jony - Ensaio 26-08-16
+./ENSAIO 2016/GABRIELA E GIOVANE ENSAIO 17-11-2016
+./ENSAIO 2016/GUILERME E LARISSA ENSAIO 28-07-15
+./ENSAIO 2016/Gabriela e Adriano
+./ENSAIO 2016/Giovana 15 anos - Ensaio
+./ENSAIO 2016/Giovana 15 anos - Ensaio 16-08-16
+./ENSAIO 2016/Gisele e João ENSAIO - 24-10-16
+./ENSAIO 2016/Gisele e Nilton 15-09-15
+./ENSAIO 2016/Gisele e Thiago - Ensaio
+./ENSAIO 2016/HEBERTI E ANDRESSA ENSAIO - 22-11-16
+./ENSAIO 2016/Hellen e Tiago
+./ENSAIO 2016/Isabele e Everton ENSAIO
+./ENSAIO 2016/Isabella 15 anos 20-04-16
+./ENSAIO 2016/JESSICA-E-EMIL - ENSAIO 16-10-16
+./ENSAIO 2016/JOSÉ ROBERTO E TATIANE ENSAIO 21-11-16
+./ENSAIO 2016/Julia 15 anos - Ensaio - 06-08-16/Ensaio
+./ENSAIO 2016/Jussara E Eduardo ENSAIO/ENSAIO
+./ENSAIO 2016/Jéssica e Murilo ENSAIO 02-09-16
+./ENSAIO 2016/KARINE E DIEGO ENSAIO 12-03-16/1
+./ENSAIO 2016/KARINE E DIEGO ENSAIO 12-03-16/2
+./ENSAIO 2016/KELLY E RONI ENSAIO 24-08-16/ensaio
+./ENSAIO 2016/Karen e Daniel - Ensaio 11-12-16
+./ENSAIO 2016/Karen e Diego/ensaio
+./ENSAIO 2016/LARISSA E ERIC ENSAIO 25-11-15
+./ENSAIO 2016/LETICIA E EDUARDO/ensaio
+./ENSAIO 2016/LUCIANA E MARCO ENSAIO
+./ENSAIO 2016/Larissa E Leonardo ENSAIO
+./ENSAIO 2016/Larissa E Matheus ENSAIO/ENSAIO
+./ENSAIO 2016/Leticia e Jose Guilherme - Ensaio 15-09-16
+./ENSAIO 2016/Lidiane e João Paulo - Ensaio 13-12-16
+./ENSAIO 2016/Luana E Jeferson - Ensaio 06-07-16/ENSAIO/1
+./ENSAIO 2016/Luana E Jeferson - Ensaio 06-07-16/ENSAIO/2
+./ENSAIO 2016/Luana E Jeferson - Ensaio 06-07-16/ENSAIO/3
+./ENSAIO 2016/MARA E MARCELO - ENSAIO 31-10-16
+./ENSAIO 2016/MARIA HELENA E LEANDRO- ENSAIO 13-09-16
+./ENSAIO 2016/MARIANE E FABRICIOTEM ENSAIO/Cam 01/Parte 01
+./ENSAIO 2016/MARIANE E FABRICIOTEM ENSAIO/Cam 01/Parte 02
+./ENSAIO 2016/MARIANE E FABRICIOTEM ENSAIO/Cam 01/Parte 03
+./ENSAIO 2016/MARIANE E FABRICIOTEM ENSAIO/Cam 02/Parte 01
+./ENSAIO 2016/MARIANE E FABRICIOTEM ENSAIO/Cam 02/Parte 02
+./ENSAIO 2016/MARIANE E FABRICIOTEM ENSAIO/MARIANE E FABRICIO (Ensaio) 20-12-15
+./ENSAIO 2016/MELISE E TIAGO ENSAIO 08-12-16
+./ENSAIO 2016/Maria Carolina e Rodolfo
+./ENSAIO 2016/Maria Gabriela e Vinicius - Ensaio 03-08-16
+./ENSAIO 2016/Mariane E Nelson ENSAIO/Ensaio
+./ENSAIO 2016/Marina e Josinei ENSAIO 08-09-16
+./ENSAIO 2016/Marina e Laio ENSAIO - 20-10-16
+./ENSAIO 2016/Mary e Murilo - Ensaio 11-10-16
+./ENSAIO 2016/Mary e Rafael - Ensaio
+./ENSAIO 2016/Matheus e Rafaela ENSAIO 04-02-16/Ensaio
+./ENSAIO 2016/Meire e Flavio Ensaio 20-09-16
+./ENSAIO 2016/Melissa e João guilherme SAVE THE DATE/Save the Date
+./ENSAIO 2016/Michele e Aguinaldo ENSAIO 28-08-16
+./ENSAIO 2016/Michele e Willian - Ensaio
+./ENSAIO 2016/Najara e Adriano - ensaio 20-10-16
+./ENSAIO 2016/Nicolle 12-04-16/Guaruja
+./ENSAIO 2016/Nicolle 12-04-16/estudio
+./ENSAIO 2016/Olivia E Bruno - Ensaio/Ensaio
+./ENSAIO 2016/PATRICIA E ALLAN ENSAIO 15-09-16/ensaio
+./ENSAIO 2016/Patricia e Fernando ENSAIO 25-05-16
+./ENSAIO 2016/Pedro e Adriana ENSAIO 18-10-16
+./ENSAIO 2016/Pedro e Raquel - Save the date
+./ENSAIO 2016/Priscila e Thiago - Ensaio
+./ENSAIO 2016/Priscilla E Felipe ENSAIO/Ensaio
+./ENSAIO 2016/RAFAEL E DANIELA ENSAIO -21-11-16
+./ENSAIO 2016/RAFAEL E DANIELA ENSAIO -21-11-16/CABINE
+./ENSAIO 2016/REGIANE E WAGNER - ENSAIO 27-09-16
+./ENSAIO 2016/RENAN E JOYCE ENSAIO 22-11-16
+./ENSAIO 2016/Raquel e Pedro - Ensaio 27-07-16
+./ENSAIO 2016/Renato E Talita ENSAIO
+./ENSAIO 2016/Roberta e Carlos
+./ENSAIO 2016/SIMONE E ELCIO - ENSAIO - 13-01-16/ENSAIO
+./ENSAIO 2016/Shaiene e Alex - ENSAIO/Ensaio
+./ENSAIO 2016/TALITA-E-CARLOS-ENSAIO 06-10-16
+./ENSAIO 2016/Tais e Cleiton - Ensaio 12-09-16
+./ENSAIO 2016/Tales e Jaqueline ENSAIO - 19-10-16
+./ENSAIO 2016/Talita e Everton ENSAIO 08-09-16
+./ENSAIO 2016/Tamiris E Lucas - Ensaio-Paraty 07-08-16
+./ENSAIO 2016/Thais e Caio
+./ENSAIO 2016/Thais e Renato - paraty/DINHO TESTE
+./ENSAIO 2016/Thais e Renato - paraty/ENSAIO PARATY
+./ENSAIO 2016/Thiago e Diana ENSAIO
+./ENSAIO 2016/Vanessa e Diego - Ensaio 05-09-16
+./ENSAIO 2016/Vitoria 15 anos - Ensaio/CAM 2 PARTE 01
+./ENSAIO 2016/Vitoria 15 anos - Ensaio/Cam livia
+./ENSAIO 2016/Vitoria 15 anos - Ensaio/Cam livia/Mayra Ediatar Vitória
+./ENSAIO 2016/Vitoria 15 anos - Ensaio/estudio
+./ENSAIO 2016/WEDDING COUNTDOWN/feitos/GISELE E JOAO 18-11-16
+./ENSAIO 2016/WEDDING COUNTDOWN/feitos/Karen silva e Daniel almeida
+./ENSAIO 2016/WEDDING COUNTDOWN/feitos/Karen silva e Daniel almeida/save de date jpeg
+./ENSAIO 2016/WEDDING COUNTDOWN/feitos/Karen silva e Daniel almeida/wsc
+./ENSAIO 2016/WEDDING COUNTDOWN/feitos/mayra e diego 16-09-17
+./ENSAIO 2016/WEDDING COUNTDOWN/feitos/raquel e pedro - 14-01-17
+./ENSAIO 2016/WEDDING COUNTDOWN/feitos/raquel e pedro - 14-01-17/modelo
+./ENSAIO 2016/Yanee 15 Anos - Ensaio/Ensaio
+./ENSAIO 2016/clezio e patricia ensaio 29-09-16
+./ENSAIO 2016/kawane e Jeison - Ensaio 26-07-16
+./ENSAIO 2017/ALESSANDRA E JEFFERSON
+./ENSAIO 2017/ALINE E RENATO 27-05-2017
+./ENSAIO 2017/ALINE E RENATO 27-05-2017/Aline e Renato
+./ENSAIO 2017/ALINE E THIAGO AUGUSTO - 24-03-2017
+./ENSAIO 2017/ANA CAROLINA
+./ENSAIO 2017/ANA CLÁUDIA E HENRIQUE - ENSAIO
+./ENSAIO 2017/ANA PAULA E ALAN - 30-03-2017
+./ENSAIO 2017/ANA PAULO E PAULO/FOTOS
+./ENSAIO 2017/ANDERSON E CRISTIANE - 03-04-2017
+./ENSAIO 2017/Alex e amanda
+./ENSAIO 2017/Alexandre e Rosana
+./ENSAIO 2017/Aline e Fernando
+./ENSAIO 2017/Aline e Gustavo
+./ENSAIO 2017/Amanda e Uwilhen 09-11-17
+./ENSAIO 2017/Ana Livia 15 Anos/Ensaio 1
+./ENSAIO 2017/Ana Livia 15 Anos/Ensaio 2
+./ENSAIO 2017/Ana Paula e Alex
+./ENSAIO 2017/Ana Silvia - 15 anos
+./ENSAIO 2017/Ana e Pedro 19-09-2017
+./ENSAIO 2017/Ana paula e Wellington
+./ENSAIO 2017/Ana paula e vinicius
+./ENSAIO 2017/Ananda e Jefferson
+./ENSAIO 2017/Anderson e camila
+./ENSAIO 2017/Andressa e Bruno
+./ENSAIO 2017/Andressa e Bruno - 09.06
+./ENSAIO 2017/André e Tais
+./ENSAIO 2017/Aniversario Thais
+./ENSAIO 2017/Ariane e Lucas
+./ENSAIO 2017/BIANCA E VITOR 15-07-2017
+./ENSAIO 2017/BRUNA E CÉSAR - ENSAIO
+./ENSAIO 2017/BRUNA E CÉSAR - ENSAIO/100EOS5D
+./ENSAIO 2017/BRUNA E GUILHERME - WEDDING COUTDOWN
+./ENSAIO 2017/BRUNA E GUILHERME 24-03-2017/ensaio
+./ENSAIO 2017/Bianca e Gileade
+./ENSAIO 2017/Bruna e Alex - 19-01-2017
+./ENSAIO 2017/Bruna e Bruno - 04-05-2017
+./ENSAIO 2017/Bruna e Clodoaldo
+./ENSAIO 2017/Bruna e Ricardo
+./ENSAIO 2017/Bruna e Rodrigo - 12-01-2017
+./ENSAIO 2017/Bruna e Rogerio
+./ENSAIO 2017/Bruno e Juliana 15-03-2017
+./ENSAIO 2017/CAMILA E CLAUDIO - ENSAIO
+./ENSAIO 2017/CAMILA-E-MURILO
+./ENSAIO 2017/CARLOS E e ELIANE 02-02-17
+./ENSAIO 2017/CAROL E KLEBER - ENSAIO
+./ENSAIO 2017/CECÍLIA E LEANDRO  ENSAIO 25-04-17/FOTOS
+./ENSAIO 2017/CECÍLIA E LEANDRO  ENSAIO 25-04-17/VIDEO/CAM 02
+./ENSAIO 2017/Caio e amanda 14-03-2017
+./ENSAIO 2017/Camila e Junior
+./ENSAIO 2017/Camila e Wellington
+./ENSAIO 2017/Carlos e Daniela  13-03-2017
+./ENSAIO 2017/Carol 15 anos - Jarinú
+./ENSAIO 2017/Carol 15 anos - Jarinú/CAROL
+./ENSAIO 2017/Carol e Rogério 12-07-2017
+./ENSAIO 2017/Carolina e Murilo 07-03-2017
+./ENSAIO 2017/Caroline e Kleber - Wedding CowntDown
+./ENSAIO 2017/Cintia e Alex
+./ENSAIO 2017/Cintya e Guilherme
+./ENSAIO 2017/Clariana e Lucas
+./ENSAIO 2017/DANIELE E PAULO - ENSAIO
+./ENSAIO 2017/Daiane e Jonathan
+./ENSAIO 2017/Daniel e Marcela
+./ENSAIO 2017/Daniela e Alan/HALL
+./ENSAIO 2017/Daniela e Alan/HALL/JPEG
+./ENSAIO 2017/Daniela e Alan/NOVO/02
+./ENSAIO 2017/Daniela e Alan/NOVO/JPEG
+./ENSAIO 2017/Daniely e Bruno/parte 1
+./ENSAIO 2017/Daniely e Bruno/parte 2
+./ENSAIO 2017/Danilo e Gabriele
+./ENSAIO 2017/Danyelle e Daniel - ensaio
+./ENSAIO 2017/Dayane e Rafael 11-07-2017
+./ENSAIO 2017/Denildes e Renato
+./ENSAIO 2017/Diogo e Marly 16-01-2017
+./ENSAIO 2017/ELAINE E LUCAS - ENSAIO
+./ENSAIO 2017/ELOA E RENATO - ENSAIO
+./ENSAIO 2017/EMILAINE E RODRIGO - ensaio
+./ENSAIO 2017/EVANDRO E LARISSA - ENSAIO
+./ENSAIO 2017/Edgmar e claudia
+./ENSAIO 2017/Eduardo e Andrezza
+./ENSAIO 2017/Eduardo e Maiara
+./ENSAIO 2017/Elen e Amarildo
+./ENSAIO 2017/Elen e Amarildo/JPEG
+./ENSAIO 2017/Eliane e Tiago
+./ENSAIO 2017/Erickson e Nayara 28-01-2017
+./ENSAIO 2017/Fabiane e Mateus
+./ENSAIO 2017/Fernanda - 15 anos/Ensaio 1
+./ENSAIO 2017/Fernanda - 15 anos/Ensaio 2
+./ENSAIO 2017/Fernanda e Ricardo
+./ENSAIO 2017/Fernanda e Silas
+./ENSAIO 2017/Flavia e Jadson
+./ENSAIO 2017/Flavia e Marcelo
+./ENSAIO 2017/Francis e Alvaro
+./ENSAIO 2017/GABRIELA E ALAN - ENSAIO
+./ENSAIO 2017/GABRIELA E GABRIEL - ENSAIO
+./ENSAIO 2017/GIZELE E JEFERSOM
+./ENSAIO 2017/GIZELE E JEFERSOM/AUDIO/MUSIC
+./ENSAIO 2017/GUILHERME E LÍVIA - ensaio
+./ENSAIO 2017/Gabi e Marcell - ensaio
+./ENSAIO 2017/Gabriela e Maxsuel
+./ENSAIO 2017/Gabriela e Rodrigo
+./ENSAIO 2017/Giovanna 15 anos 15-02-2017
+./ENSAIO 2017/Gisele e jose
+./ENSAIO 2017/Guilherme e Aline 18-01-2017
+./ENSAIO 2017/Guilherme e Bruna
+./ENSAIO 2017/Guilherme e Bruna/ENSAIO
+./ENSAIO 2017/HELOÍSA E BRUNO - ENSAIO
+./ENSAIO 2017/Igor e Silvana - ensaio
+./ENSAIO 2017/Isabelle e Bruno
+./ENSAIO 2017/Italo e Daiane
+./ENSAIO 2017/Ivana e Oswaldo
+./ENSAIO 2017/JESSICA E GUSTAVO
+./ENSAIO 2017/JULIANA E JHOW - ensaio
+./ENSAIO 2017/Jaqueline e Tiago
+./ENSAIO 2017/Jaquelyne e Fabio
+./ENSAIO 2017/Jeisy e Lucas
+./ENSAIO 2017/Jessica e Felipe 08-11-17
+./ENSAIO 2017/Joyce e Sergio 07-11-17
+./ENSAIO 2017/Julia 15 anos 08-02-2017/Praia
+./ENSAIO 2017/Julia 15 anos 08-02-2017/ensaio na residencia/julia residencia
+./ENSAIO 2017/Julia e Guilherme
+./ENSAIO 2017/Juliana e anderson
+./ENSAIO 2017/KARINA E GABRIEL - ENSAIO
+./ENSAIO 2017/Karina e Raphael
+./ENSAIO 2017/Kerolaine e Vinicius
+./ENSAIO 2017/Kerolaine e Vinicius/JPEG
+./ENSAIO 2017/Kerolaine e Vinicius/Parte02
+./ENSAIO 2017/Kezia e Felipe
+./ENSAIO 2017/LARISSA E CAIO - ENSAIO
+./ENSAIO 2017/LARISSA E CAIO - wedding coutdown
+./ENSAIO 2017/LARISSA E RENATO - ENSAIO
+./ENSAIO 2017/LUANA-E-DANILO
+./ENSAIO 2017/LUCAS  E PATRICIA 03.02
+./ENSAIO 2017/LUCAS-E-LETICIA
+./ENSAIO 2017/Lisa e alessandro/ENSAIO
+./ENSAIO 2017/Luana e Glauco - ensaio
+./ENSAIO 2017/Lucas e Luciane
+./ENSAIO 2017/Luciana e Marcio
+./ENSAIO 2017/Luciano e Renata
+./ENSAIO 2017/Ludmila e Wellington
+./ENSAIO 2017/Luiz FERNANDO E JAQUELINE - ENSAIO
+./ENSAIO 2017/Luiz Felipe e Flávia
+./ENSAIO 2017/MARIANA E WILLIAN
+./ENSAIO 2017/MAYARA E DIEGO - pre wedding
+./ENSAIO 2017/MAYARA E DIEGO - pre wedding/fotos/100EOS5D
+./ENSAIO 2017/MONALIZA-E-CLEVERSOM
+./ENSAIO 2017/Maiara e Daniel
+./ENSAIO 2017/Maiara e Paulo
+./ENSAIO 2017/Maju e João
+./ENSAIO 2017/Maju e João/Editar
+./ENSAIO 2017/Maria Julia - 15 anos ensaio
+./ENSAIO 2017/Mariana e Guilherme
+./ENSAIO 2017/Marina e Marco
+./ENSAIO 2017/Mauricio e Joyce
+./ENSAIO 2017/Mayara e Tiago
+./ENSAIO 2017/Melissa e Eduardo/Ensaio
+./ENSAIO 2017/Melissa e João- Ensaio
+./ENSAIO 2017/Monise e Eli/Ensaio
+./ENSAIO 2017/NATALIA E ANDERSON - ensaio
+./ENSAIO 2017/Naisa - 15 anos
+./ENSAIO 2017/Natalia e Bruno 30-01-2017
+./ENSAIO 2017/Natalia e Paulo evento 18-11-2017
+./ENSAIO 2017/Nathalia e Daniel
+./ENSAIO 2017/Nathalia e Rogerio
+./ENSAIO 2017/Nicole e Cleber
+./ENSAIO 2017/Noele e Mateus
+./ENSAIO 2017/Náthaly e Lucas 01-02-17
+./ENSAIO 2017/PAMELA E FELIPE - ensaio
+./ENSAIO 2017/PAULA E RICARDO
+./ENSAIO 2017/Pamela e Alexandre
+./ENSAIO 2017/Paulo Vitor e Fabiana
+./ENSAIO 2017/Priscila e Alexandre
+./ENSAIO 2017/RAFAEL E FERNANDA - ensaio
+./ENSAIO 2017/RENATA E PEDRO 19-05-2017
+./ENSAIO 2017/ROBERTA E RODOLFO
+./ENSAIO 2017/ROSIELI E ALEXANDRE
+./ENSAIO 2017/Rafael e Taís (20-05)
+./ENSAIO 2017/Rafaela e Vinicius
+./ENSAIO 2017/Renata e André
+./ENSAIO 2017/Renata e Leandro
+./ENSAIO 2017/Renata e Leandro/LEANDRO E RENATA
+./ENSAIO 2017/Rita e Lucas
+./ENSAIO 2017/Roberta e Davi
+./ENSAIO 2017/Roberto e Lais
+./ENSAIO 2017/Rodrigo e Mariana
+./ENSAIO 2017/SAMANTHA E CASSIO - ENSAIO
+./ENSAIO 2017/SAMARA-E-BRANDOM
+./ENSAIO 2017/SORAIA E WELLINGTON - ENSAIO
+./ENSAIO 2017/Sagora e Rodrigo
+./ENSAIO 2017/Shirley e emerson
+./ENSAIO 2017/Silvana e Igor - Wedding coutdown
+./ENSAIO 2017/Silvia e Danilo-06-05-2017
+./ENSAIO 2017/Stephane e Gustavo
+./ENSAIO 2017/Stephane e Gustavo/ENSAIO
+./ENSAIO 2017/Sue Ellen e Elielson
+./ENSAIO 2017/Suzana e Eric ENSAIO 05-01-17
+./ENSAIO 2017/Suzana e Eric ENSAIO 05-01-17/Continuação/01
+./ENSAIO 2017/Suzana e Eric ENSAIO 05-01-17/Continuação/02
+./ENSAIO 2017/TAIRIS E JEFFERSON
+./ENSAIO 2017/TAMIRES E RONY - ensaio
+./ENSAIO 2017/THAIS E FELIPE
+./ENSAIO 2017/THAIS E FERNANDO
+./ENSAIO 2017/TWYLA E LUCAS
+./ENSAIO 2017/Tabata e Aleksander
+./ENSAIO 2017/Tainá e Guilherme
+./ENSAIO 2017/Tamara e Kaue
+./ENSAIO 2017/Tamires e Rodrigo
+./ENSAIO 2017/Tassiane e Willian
+./ENSAIO 2017/Valeria e Marcos
+./ENSAIO 2017/Vanessa e André
+./ENSAIO 2017/Vitor e Emanoele
+./ENSAIO 2017/Vitor e Emanoele/emanoele e vitor
+./ENSAIO 2017/Viviana e Fabricio 04-05-2017
+./ENSAIO 2017/WEDDING COUNTDAW BIANCA E FABIO
+./ENSAIO 2017/WELLIGTON E CAMILA
+./ENSAIO 2017/Wanderson e Mariana - ensaio
+./ENSAIO 2017/Wesley e Denise 08-03-2017
+./ENSAIO 2017/ariana e erick
+./ENSAIO 2017/artur e natalia 09-12-2017
+./ENSAIO 2017/bianca e fabio
+./ENSAIO 2017/camila e robson 20-05-2017
+./ENSAIO 2017/carol e gabriel 27-02-2017
+./ENSAIO 2017/daniela e rodrigo
+./ENSAIO 2017/felipe e roberta
+./ENSAIO 2017/gabriela e ali
+./ENSAIO 2017/gustavo e marina
+./ENSAIO 2017/karina e leandro 16-03-17
+./ENSAIO 2017/kelli e marcos
+./ENSAIO 2017/lucas e patricia
+./ENSAIO 2017/luciana e lucas 09.12
+./ENSAIO 2017/natalia e charles
+./ENSAIO 2017/natalia e leandro
+./ENSAIO 2017/samara e jeferson
+./ENSAIO 2017/talita e Cleber
+./ENSAIO 2017/thiago e paola 28-02-2017
+./ENSAIO 2017/vanessa e paulo
+./Eloá tratadas
+./LOVE STORY - NÃO APAGAR/ALESSANDRA E JEFERSON
+./LOVE STORY - NÃO APAGAR/FEITOS/Amanda e Uhillen
+./LOVE STORY - NÃO APAGAR/FEITOS/Ana Paula e Paulo
+./LOVE STORY - NÃO APAGAR/FEITOS/Ana Paula e Vinicius
+./LOVE STORY - NÃO APAGAR/FEITOS/Bianca e Fabio
+./LOVE STORY - NÃO APAGAR/FEITOS/Bruna e Ricardo
+./LOVE STORY - NÃO APAGAR/FEITOS/CAMILA E MURILO
+./LOVE STORY - NÃO APAGAR/FEITOS/CLARIANA E LUCAS
+./LOVE STORY - NÃO APAGAR/FEITOS/Carol e Kleber
+./LOVE STORY - NÃO APAGAR/FEITOS/Daniela e Rodrigo
+./LOVE STORY - NÃO APAGAR/FEITOS/Denildes e Renato
+./LOVE STORY - NÃO APAGAR/FEITOS/Felipe e Ana
+./LOVE STORY - NÃO APAGAR/FEITOS/Fernanda e Ricardo
+./LOVE STORY - NÃO APAGAR/FEITOS/GIZELE E JEFERSON
+./LOVE STORY - NÃO APAGAR/FEITOS/Gabriela e Maxuel
+./LOVE STORY - NÃO APAGAR/FEITOS/Gabriele e Ali
+./LOVE STORY - NÃO APAGAR/FEITOS/Jessica e Felipe
+./LOVE STORY - NÃO APAGAR/FEITOS/Joyce e Sergio
+./LOVE STORY - NÃO APAGAR/FEITOS/KARINA E GABRIEL
+./LOVE STORY - NÃO APAGAR/FEITOS/KEROLAINE E VINICIUS
+./LOVE STORY - NÃO APAGAR/FEITOS/Luciana e Lucas
+./LOVE STORY - NÃO APAGAR/FEITOS/Luciano e Renata
+./LOVE STORY - NÃO APAGAR/FEITOS/MAIARA E EDUARDO
+./LOVE STORY - NÃO APAGAR/FEITOS/MAIARA E PAULO
+./LOVE STORY - NÃO APAGAR/FEITOS/MARIANA E DANIEL
+./LOVE STORY - NÃO APAGAR/FEITOS/MONISE E ELI
+./LOVE STORY - NÃO APAGAR/FEITOS/Natalia e Arthur
+./LOVE STORY - NÃO APAGAR/FEITOS/PAULO E NATALIA
+./LOVE STORY - NÃO APAGAR/FEITOS/PRISCILA E ALEXANDRE
+./LOVE STORY - NÃO APAGAR/FEITOS/SAME DAY EDIT I MANU E VITOR/CAUE
+./LOVE STORY - NÃO APAGAR/FEITOS/SAME DAY EDIT I MANU E VITOR/LUIZ
+./LOVE STORY - NÃO APAGAR/FEITOS/SAME DAY EDIT I MANU E VITOR/REPAROS
+./LOVE STORY - NÃO APAGAR/FEITOS/Samara e Brandon
+./LOVE STORY - NÃO APAGAR/FEITOS/Same Day - Ana Paula e Paulo
+./LOVE STORY - NÃO APAGAR/FEITOS/Same Day - Ana Paula e Paulo/DRONE
+./LOVE STORY - NÃO APAGAR/FEITOS/Thais e Felipe
+./LOVE STORY - NÃO APAGAR/FELIPE E ROBERTA
+./LOVE STORY - NÃO APAGAR/Fernanda - 15 anos
+./LOVE STORY - NÃO APAGAR/LUCAS E PATRICIA
+./LOVE STORY - NÃO APAGAR/Luciana e Marcio
+./LOVE STORY - NÃO APAGAR/Ludmila e Wellington
+./LOVE STORY - NÃO APAGAR/MARIANA E WILLIAN
+./LOVE STORY - NÃO APAGAR/alex e amanda
+./LOVE STORY - NÃO APAGAR/jeysi e lucas
+./Rede
+./Rede/CONTRATO DIA 26-11
+./Rede/CONTRATOS
+./Rede/CONTRATOS/CONTRATOS
+./Rede/CONTRATOS/CONTRATOS/JANEIRO
+./Rede/CONTRATOS/CONTRATOS/MODELOS DE CONTRATOS
+./Rede/MODELOS DE CONTRATOS
+./Rede/ORDEM SERVIÇO - ALBUNS/01janeiro
+./Rede/ORDEM SERVIÇO - ALBUNS/02fevereiro
+./Rede/ORDEM SERVIÇO - ALBUNS/03março
+./Rede/PLANILHA DE ALBUNS e VÍDEOS
+./Rede/SEMANAL
+./Rede/SEMANAL/10 Outubro
+./Rede/SEMANAL/10 Outubro/Ana Paula E Alex 21-10-17/25 Fotos
+./Rede/SEMANAL/10 Outubro/Ana Paula E Alex 21-10-17/Foto Lembranca
+./Rede/SEMANAL/10 Outubro/Ana Paula E Alex 21-10-17/Quadro
+./Rede/SEMANAL/10 Outubro/Ananda e Jefferson/FOTOS PRÈ WEDDING
+./Rede/SEMANAL/10 Outubro/Ananda e Jefferson/FOTOS PRÈ WEDDING/musica pre wedding
+./Rede/SEMANAL/10 Outubro/Camila e Junior
+./Rede/SEMANAL/10 Outubro/Daniela e Alan Daniel
+./Rede/SEMANAL/10 Outubro/Daniela e Alan Daniel/ela
+./Rede/SEMANAL/10 Outubro/Daniela e Alan Daniel/ele
+./Rede/SEMANAL/10 Outubro/Daniela e Alan Daniel/os dois
+./Rede/SEMANAL/10 Outubro/Rita e Lucas
+./Rede/SEMANAL/10 Outubro/Rita e Lucas/25 fotos slide
+./Rede/SEMANAL/10 Outubro/Rita e Lucas/FOTOS CASAL
+./Rede/SEMANAL/10 Outubro/Rita e Lucas/LUCAS CRIANÇA
+./Rede/SEMANAL/10 Outubro/Rita e Lucas/RITA CRIANÇA
+./Rede/SEMANAL/10 Outubro/Vanessa e Andre/Fotos ensaio
+./Rede/SEMANAL/11 Novembro
+./Rede/SEMANAL/11 Novembro/02-11
+./Rede/SEMANAL/11 Novembro/02-11/ELEN E AMARILDO
+./Rede/SEMANAL/11 Novembro/02-11/ELEN E AMARILDO/banner
+./Rede/SEMANAL/11 Novembro/02-11/mariana e marco
+./Rede/SEMANAL/11 Novembro/03-11
+./Rede/SEMANAL/11 Novembro/04-11
+./Rede/SEMANAL/11 Novembro/04-11/tamara e kaue
+./Rede/SEMANAL/11 Novembro/10-11
+./Rede/SEMANAL/11 Novembro/10-11/Mayara e Tiago - 10-11-2017/ESCOLHAS FOTOS TELAO
+./Rede/SEMANAL/11 Novembro/10-11/Mayara e Tiago - 10-11-2017/ESCOLHAS MUSICAS
+./Rede/SEMANAL/11 Novembro/10-11/Mayara e Tiago - 10-11-2017/Foto para Cabine e Moldura
+./Rede/SEMANAL/11 Novembro/11-11
+./Rede/SEMANAL/11 Novembro/12-11
+./Rede/SEMANAL/11 Novembro/18-11
+./Rede/SEMANAL/11 Novembro/18-11/Camila e  Murilo 18-11-2017
+./Rede/SEMANAL/11 Novembro/18-11/Gisele e Jefferson
+./Rede/SEMANAL/11 Novembro/18-11/Gisele e Jefferson/Fotos Escolhidas
+./Rede/SEMANAL/11 Novembro/18-11/Maiara e Paulo 18-11-2017
+./Rede/SEMANAL/11 Novembro/18-11/Natália e Paulo 18-11-2017
+./Rede/SEMANAL/11 Novembro/24-11
+./Rede/SEMANAL/11 Novembro/25-11
+./Rede/SEMANAL/11 Novembro/25-11/Clariana e Lucas 25-11/pré wedding
+./Rede/SEMANAL/11 Novembro/25-11/KEROLAINE E VINÍCIUS 25-11-2017
+./Rede/SEMANAL/11 Novembro/ANA PAULA E WELLINGTON
+./Rede/SEMANAL/12 Dezembro/02-12
+./Rede/SEMANAL/12 Dezembro/02-12/ALEXANDRE E PRISCILLA
+./Rede/SEMANAL/12 Dezembro/02-12/ANA PAULA E PAULO
+./Rede/SEMANAL/12 Dezembro/02-12/ANA PAULA E PAULO/RETRO
+./Rede/SEMANAL/12 Dezembro/02-12/FERNANDA E RICARDO
+./Rede/SEMANAL/12 Dezembro/09-12
+./Rede/SEMANAL/12 Dezembro/09-12/Amanda Uhillen
+./Rede/SEMANAL/12 Dezembro/09-12/Amanda Uhillen/FOTOS SELECIONDAS- PRÉ WEDDING
+./Rede/SEMANAL/12 Dezembro/09-12/Amanda Uhillen/RETROSPECTIVA DO CASAL
+./Rede/SEMANAL/12 Dezembro/09-12/Amanda Uhillen/RETROSPECTIVA DO CASAL/VÍDEO
+./Rede/SEMANAL/12 Dezembro/15-12
+./Rede/SEMANAL/12 Dezembro/16-12/16-12 Ana Paula Matias
+./Rede/SEMANAL/12 Dezembro/16-12/16-12 Bruna e Ricardo
+./Rede/SEMANAL/12 Dezembro/22-12
+./Rede/SEMANAL/12 Dezembro/29-12
+./Rede/SEMANAL/5 Maio/Camila e Robson/Camila
+./Rede/SEMANAL/5 Maio/Camila e Robson/Fotos dos dois
+./Rede/SEMANAL/5 Maio/Camila e Robson/Robson
+./Rede/SEMANAL/5 Maio/Carol e Gabriel
+./Rede/SEMANAL/5 Maio/Emilaine e Rodrigo/Emilaine
+./Rede/SEMANAL/5 Maio/Emilaine e Rodrigo/Emilaine e Rodrigo
+./Rede/SEMANAL/5 Maio/Emilaine e Rodrigo/Rodrigo
+./Rede/SEMANAL/5 Maio/Gabi e Marcell/Foto - Quadro
+./Rede/SEMANAL/5 Maio/Gabi e Marcell/Fotos - Editar Pre Wedding
+./Rede/SEMANAL/5 Maio/Retro Rodrigo e Isadora 06-05-2017
+./Rede/SEMANAL/5 Maio/Retro Rodrigo e Isadora 06-05-2017/Enviar por e-mail/Isadora
+./Rede/SEMANAL/5 Maio/Retro Rodrigo e Isadora 06-05-2017/Enviar por e-mail/Rodrigo
+./Rede/SEMANAL/5 Maio/Retro Rodrigo e Isadora 06-05-2017/Enviar por e-mail/Rodrigo e Isadora
+./Rede/SEMANAL/5 Maio/Taís e Raphael 20-05-2017
+./Rede/SEMANAL/6 Junho
+./Rede/SEMANAL/6 Junho/nathalia e anderson 17-06-2017/FOTOS DA RETROSPECTIVA/ANDERSON
+./Rede/SEMANAL/6 Junho/nathalia e anderson 17-06-2017/FOTOS PARA PHOTOSHOP
+./Rede/SEMANAL/6 Junho/nathalia e anderson 17-06-2017/FOTOS PRO ALBUM
+./Rede/SEMANAL/6 Junho/nathalia e anderson 17-06-2017/XK
+./Rede/SEMANAL/7 Julho/Bianca e Victor 15-07-17/fotografo as 25++
+./Rede/SEMANAL/7 Julho/Gabriela e Alan
+./Rede/SEMANAL/8 Agosto/Bruna e Bruno
+./Rede/SEMANAL/8 Agosto/fotos slide show viviana e
+./Rede/SEMANAL/9 Setembro
+./Rede/SEMANAL/9 Setembro/Ivana e Oswaldo
+./Rede/SEMANAL/9 Setembro/Ivana e Oswaldo/Ivana e Oswaldo
+./Rede/SEMANAL/9 Setembro/Lívia e Guilherme
+./Rede/SEMANAL/9 Setembro/Pré-wedding- Camila e Anderson 02092017
+./Rede/SEMANAL/9 Setembro/Sagora e Rodrigo
+./Rede/SEMANAL/9 Setembro/Thais e Fernando/25 fotos
+./Rede/SEMANAL/9 Setembro/Thais e Fernando/Poster
+./Rede/SEMANAL/FOTOS IGOR
+./Rede/SEMANAL/Foto lembrança
+./Rede/SEMANAL/Guilherme e Taina
+./Rede/SEMANAL/capas
+./Rede/SEMANAL/capas/capas
+./Rede/SEMANAL/capas/midia
+./Rede/SEMANAL/check list caio
+./Rede/SEMANAL/fotos
+./Rede/SEMANAL/fotos/15-12
+./Rede/SEMANAL/fotos/16-12
+./Rede/SEMANAL/fotos/22-12
+./Rede/SEMANAL/fotos/29-12
+./Rede/Scan
+./Rede/VOZES
+./Rede/capa face
+./Rede/capa face/Adobe Premiere Pro Auto-Save
+./Rede/check list
+./Rede/check list/2-11
+./Rede/check list/3-11
+./Rede/check list/4-11
+./Rede/check list/Nova pasta/10-11
+./Rede/check list/Nova pasta/11-11
+./Rede/check list/Nova pasta/12-11
+./Rede/contratos Quality
+./Rede/fevereiro/CONTRATOS
+./Rede/fevereiro/CONTRATOS/MODELOS DE CONTRATOS
+./Rede/fevereiro/CONTRATOS/RECIBOS
+./Rede/fevereiro/CONTRATOS/contratos 2017/JANEIRO
+./Rede/gabarito dedé 30x30
+./Rede/outros
+./drone/Camila e Claudio 17-11-17
+./drone/DRONE PRISCISA 02 12 2017
+./drone/Daiane e Everton 18-11-17
+./drone/videos junior
+./drone/videos junior/Adobe Premiere Pro Auto-Save
+./pt_office_professional_plus_2016_x86_x64_dvd_6966451
+./pt_office_professional_plus_2016_x86_x64_dvd_6966451/office
+./pt_office_professional_plus_2016_x86_x64_dvd_6966451/office/data
+./pt_office_professional_plus_2016_x86_x64_dvd_6966451/office/data/16.0.4266.1003

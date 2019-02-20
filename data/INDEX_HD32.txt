@@ -1,0 +1,81 @@
+.
+./.fseventsd
+./Karina/Visual fotos jpg
+./casamento_Aline e Alexandre/ALEXANDRE 1
+./casamento_Aline e Alexandre/ALEXANDRE 2
+./casamento_Aline e Alexandre/AUDIO
+./casamento_Aline e Alexandre/LUAN 02
+./casamento_Aline e Alexandre/LUAN 1
+./casamento_Aline e Alexandre/MAKING OF
+./casamento_Bruna Zancho e Vinicius/5D 1
+./casamento_Bruna Zancho e Vinicius/5D 2
+./casamento_Bruna Zancho e Vinicius/70D
+./casamento_Bruna Zancho e Vinicius/AUDIO
+./casamento_Bruna Zancho e Vinicius/MARK 3 - PARTE 1
+./casamento_Bruna Zancho e Vinicius/MARK 3- PARTE 2
+./casamento_Bruna Zancho e Vinicius/T5I
+./casamento_Bruna e Vinicius/ALEXANDRE
+./casamento_Bruna e Vinicius/ALEXANDRE 2
+./casamento_Bruna e Vinicius/AUDIO
+./casamento_Bruna e Vinicius/CAMERA PEQUENA
+./casamento_Bruna e Vinicius/GOPRO
+./casamento_Bruna e Vinicius/LUAN
+./casamento_Bruna e Vinicius/MAKING OF
+./casamento_Danielen e Henrique/70D
+./casamento_Danielen e Henrique/AUDIO
+./casamento_Danielen e Henrique/CAM ALEXANDRE
+./casamento_Danielen e Henrique/CAMERA PEQUENA
+./casamento_Danielen e Henrique/GOPRO
+./casamento_Danielen e Henrique/T5I
+./casamento_Danielen e Henrique/T5I FESTA
+./casamento_Deyse e Diego
+./casamento_Deyse e Diego/5D
+./casamento_Deyse e Diego/7D
+./casamento_Deyse e Diego/NX5 - LEANDRINHO
+./casamento_Deyse e Diego/NX5 - LEANDRINHO/PRIVATE
+./casamento_Deyse e Diego/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV
+./casamento_Deyse e Diego/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Deyse e Diego/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Deyse e Diego/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Deyse e Diego/audio
+./casamento_Karina e Orlando/5D
+./casamento_Karina e Orlando/7D
+./casamento_Karina e Orlando/AUDIO
+./casamento_Karina e Orlando/NX5 - LEANDRAO
+./casamento_Karina e Orlando/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV
+./casamento_Karina e Orlando/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Karina e Orlando/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Karina e Orlando/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Patricia e Ricardo
+./casamento_Patricia e Ricardo/100GOPRO
+./casamento_Patricia e Ricardo/5D 1
+./casamento_Patricia e Ricardo/5D 2
+./casamento_Patricia e Ricardo/AUDIO
+./casamento_Patricia e Ricardo/CELSO 1
+./casamento_Patricia e Ricardo/CELSO 2
+./casamento_Patricia e Ricardo/T5I
+./casamento_Tassia e Fabio
+./casamento_Tassia e Fabio/5D
+./casamento_Tassia e Fabio/7D
+./casamento_Tassia e Fabio/AUDIO
+./casamento_Tassia e Fabio/FOTOS PARA LIVIA - ALIANCA
+./casamento_Tassia e Fabio/NX5 - LEANDRINHO
+./casamento_Tassia e Fabio/NX5 - LEANDRINHO/PRIVATE
+./casamento_Tassia e Fabio/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV
+./casamento_Tassia e Fabio/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Tassia e Fabio/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Tassia e Fabio/NX5 - LEANDRINHO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Thaine e Felipe/100D5200
+./casamento_Thaine e Felipe/70D
+./casamento_Thaine e Felipe/AUDIO DR040
+./casamento_Thaine e Felipe/AUDIO GRV. ALEXANDRE
+./casamento_Thaine e Felipe/T5I
+./casamento_Thais e Rodrigo/AUDIO
+./casamento_Thais e Rodrigo/CELSO 1
+./casamento_Thais e Rodrigo/CELSO 2
+./casamento_Thais e Rodrigo/NX5/PRIVATE/AVCHD/BDMV
+./casamento_Thais e Rodrigo/NX5/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Thais e Rodrigo/NX5/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Thais e Rodrigo/NX5/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Thais e Rodrigo/NX5/PRIVATE/AVCHD/PANA_EXT
+./casamento_Thais e Rodrigo/T5I

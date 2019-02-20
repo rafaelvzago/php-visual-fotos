@@ -1,0 +1,72 @@
+.
+./Juliane e Adriano 09_02_2013 DVD
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/AuthorScriptHDMV1.tmp/BDMV
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/AuthorScriptHDMV1.tmp/BDMV/DB/BDMV
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/AuthorScriptHDMV1.tmp/BDMV/DB/CERTIFICATE
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/AuthorScriptHDMV1.tmp/BDMV/DB/CERTIFICATE/BACKUP
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/AuthorScriptHDMV1.tmp/BDMV/IGPGIntermediate
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/AuthorScriptHDMVSessions
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/Cache
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/Sources/Cerimonia e Recepçao.mpg_ses_ses
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/Sources/Clip.mpg_ses_ses
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/Sources/Making.mpg_ses_ses
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/Sources/Menus
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/Sources/Transcodes
+./Juliane e Adriano 09_02_2013 DVD/Blu Ray/Sources/Video
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Cache
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Cache/SubtitleDataFiles
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Cerimonia e Recepçao.mpg_ses_ses
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Clip.mpg_ses_ses
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Making.mpg_ses_ses
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Menus
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Transcodes
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Transcodes/Audio.avi
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Transcodes/Cerimonia e Recepçao.mpg
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Transcodes/Clip.mpg
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Transcodes/Making.mpg
+./Juliane e Adriano 09_02_2013 DVD/Juliana e adriano/Sources/Video
+./Leticia e Rafael
+./Leticia e Rafael/AUDIO
+./Leticia e Rafael/CAM LEANDRO - NX5
+./Leticia e Rafael/CAM RICARDO - 5D
+./Leticia e Rafael/CAM RICARDO - 7D
+./Luana e Victor -COMPLETO
+./Luana e Victor -COMPLETO/5D STEADICAM - RICARDO
+./Luana e Victor -COMPLETO/7D - RICARDO
+./Luana e Victor -COMPLETO/AUDIO GRAVADOR RICARDO - USAR ESSES AUDIOS NA EDICAO
+./Luana e Victor -COMPLETO/AUDIO GRAVADOR RICARDO - USAR ESSES AUDIOS NA EDICAO/CERIMONIA - DOIS AUDIOS SAO IGUAIS
+./Luana e Victor -COMPLETO/AUDIO GRAVADOR RICARDO - USAR ESSES AUDIOS NA EDICAO/FESTA
+./Luana e Victor -COMPLETO/AUDIO TASKAN - TESTE VOLUME LEVEL 10 - AUDIO FICOU UM POUCO BAIXO
+./Luana e Victor -COMPLETO/NX5 - LEANDRAO
+./Luana e Victor -COMPLETO/NX5 - LEANDRAO/PRIVATE
+./Luana e Victor -COMPLETO/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV
+./Luana e Victor -COMPLETO/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./Luana e Victor -COMPLETO/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./Luana e Victor -COMPLETO/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM
+./Luana e Victor -COMPLETO/T5i - EDSON
+./Patricia e Fabio/5D -1
+./Patricia e Fabio/5D RICARDO - STEADICAM ATE CHEGADA DA NOIVA
+./Patricia e Fabio/5D-2
+./Patricia e Fabio/70D 1
+./Patricia e Fabio/70D 2
+./Patricia e Fabio/AUDIO DR 40
+./Patricia e Fabio/GOPRO
+./Patricia e Fabio/GRAVADOR RICARDO - SÓ CORTEJO ATÉ ENTRADA NOIVA
+./Patricia e Fabio/IMAGEM DA IGREJA VAZIA
+./Patricia e Fabio/MAKING OF 5D
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 1
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 1/PRIVATE/AVCHD/BDMV
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 1/PRIVATE/AVCHD/BDMV/CLIPINF
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 1/PRIVATE/AVCHD/BDMV/PLAYLIST
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 1/PRIVATE/AVCHD/BDMV/STREAM
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 2
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 2/PRIVATE/AVCHD/BDMV
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 2/PRIVATE/AVCHD/BDMV/CLIPINF
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 2/PRIVATE/AVCHD/BDMV/PLAYLIST
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 2/PRIVATE/AVCHD/BDMV/STREAM
+./Patricia e Fabio/NX5 LEANDRINHO - GRUA TEMPO TODO/CARTAO 2/PRIVATE/SONY
+./Patricia e Fabio/T5i
+./Patricia e Fabio/T5i-2
+./Patricia e Fabio/TIME LAPSO IGREJA

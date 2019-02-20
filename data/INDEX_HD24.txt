@@ -1,0 +1,106 @@
+.
+./ENSAIO/FOTOS/CAMILA-E-MURILO
+./ENSAIO/FOTOS/LUANA-E-DANILO
+./ENSAIO/FOTOS/LUCAS-E-LETICIA
+./ENSAIO/FOTOS/MONALIZA-E-CHARLES
+./ENSAIO/FOTOS/MONALIZA-E-CLEVERSOM
+./ENSAIO/FOTOS/SAMARA-E-BRANDOM
+./ENSAIO/LUANA-E-DANILO videos
+./ENSAIO/LUANA-E-DANILO videos/AUDIO/MUSIC
+./ENSAIO/LUCAS-E-LETICIA videos
+./ENSAIO/LUCAS-E-LETICIA videos/AUDIO/MUSIC
+./ENSAIO/MONALIZA-E-CLEVERSOM videos
+./ENSAIO/MONALIZA-E-CLEVERSOM videos/AUDIO/MUSIC
+./ENSAIO/VIDEO-CAMILA E WELLINGTOM
+./FOTOS/Casamento 28.10 Ricardo e Paula CAM 02
+./FOTOS/Sue Ellen e Elielson 15-10-2017/Cam 02 Jefferson
+./FOTOS/Sue Ellen e Elielson 15-10-2017/Cam 03 alexandre
+./Seagate/Registration
+./casamentos/ALINE-E-FERNANDO-07-10-2017/AUDIO/MUSIC
+./casamentos/ALINE-E-FERNANDO-07-10-2017/Cam Regis balada e aliança
+./casamentos/ALINE-E-FERNANDO-07-10-2017/Cam Regis cerimonia e balada
+./casamentos/ALINE-E-FERNANDO-07-10-2017/Cam Regis decoração-cerimonia e
+./casamentos/ALINE-E-FERNANDO-07-10-2017/T5I
+./casamentos/ALINE-E-FERNANDO-07-10-2017/WELLIGTOM-1
+./casamentos/Aline e Tiago 08.09.17/Jozimar
+./casamentos/Aline e Tiago 08.09.17/Neno
+./casamentos/Bruna e Guilherme 26.08.17/Audio
+./casamentos/Bruna e Guilherme 26.08.17/Caue
+./casamentos/Bruna e Guilherme 26.08.17/Luiz
+./casamentos/Bruna e Guilherme 26.08.17/Marcao
+./casamentos/CAS.CAS.NATALIA-E-DANIEL-08-10-2017/AUDIO/MUSIC
+./casamentos/CAS.CAS.NATALIA-E-DANIEL-08-10-2017/EDSOM
+./casamentos/CAS.CAS.NATALIA-E-DANIEL-08-10-2017/WELLIGTOM-1
+./casamentos/CAS.CAS.NATALIA-E-DANIEL-08-10-2017/WELLIGTOM-2
+./casamentos/Camila e Alex 02-09-17/Câmera Leandrão
+./casamentos/Camila e Alex 02-09-17/Câmera Wellington/Cartão 32 gb
+./casamentos/Camila e Alex 02-09-17/Câmera Wellington/Cartão 64 Gb
+./casamentos/Camila e Anderson 02.09.17/Audio
+./casamentos/Camila e Anderson 02.09.17/Guto
+./casamentos/Camila e Anderson 02.09.17/Luiz
+./casamentos/Daiane e Jonathan 07.09.17/Audio
+./casamentos/Daiane e Jonathan 07.09.17/Caue
+./casamentos/Daiane e Jonathan 07.09.17/Luiz
+./casamentos/Daiane e Jonathan 07.09.17/Marcao
+./casamentos/Daiane e Rafael 19.08.17/Audio
+./casamentos/Daiane e Rafael 19.08.17/Caue
+./casamentos/Daiane e Rafael 19.08.17/Luiz
+./casamentos/Daiane e Rafael 19.08.17/Marcos
+./casamentos/Eloa e Renato 25.08.17/Audio
+./casamentos/Eloa e Renato 25.08.17/Audio/pluraleyes_drift_corrected
+./casamentos/Eloa e Renato 25.08.17/Caue
+./casamentos/Eloa e Renato 25.08.17/Jozimar
+./casamentos/Eloa e Renato 25.08.17/Welligton
+./casamentos/Gabriel e Gabriela 08.09.17/Alan
+./casamentos/Gabriel e Gabriela 08.09.17/Audio
+./casamentos/Gabriel e Gabriela 08.09.17/Caue
+./casamentos/Gabriel e Gabriela 08.09.17/Gopro/104GOPRO
+./casamentos/Gabriel e Gabriela 08.09.17/Gopro/105GOPRO
+./casamentos/Gabriel e Gabriela 08.09.17/Gopro/106GOPRO
+./casamentos/Gabriel e Gabriela 08.09.17/Gopro/107GOPRO
+./casamentos/Gabriel e Gabriela 08.09.17/Gopro/108GOPRO
+./casamentos/Gabriel e Gabriela 08.09.17/Gopro/109GOPRO
+./casamentos/Gabriel e Gabriela 08.09.17/Gopro/110GOPRO
+./casamentos/Gabriel e Gabriela 08.09.17/Gopro/111GOPRO
+./casamentos/Gabriel e Gabriela 08.09.17/Wellington
+./casamentos/Jaqueline e Thiago 02.09.17/Alan
+./casamentos/Jaqueline e Thiago 02.09.17/Alan/Compact Flash
+./casamentos/Jaqueline e Thiago 02.09.17/Audio1
+./casamentos/Jaqueline e Thiago 02.09.17/Audio2
+./casamentos/Jaqueline e Thiago 02.09.17/Diogo
+./casamentos/Jaqueline e Thiago 02.09.17/Neno
+./casamentos/Lissa e Alessandro 09.09.17/Audio
+./casamentos/Lissa e Alessandro 09.09.17/Caue
+./casamentos/Lissa e Alessandro 09.09.17/Luiz
+./casamentos/Lissa e Alessandro 09.09.17/Wellington
+./casamentos/Livia e Guilerme 02.09.17/Audio
+./casamentos/Livia e Guilerme 02.09.17/Caue
+./casamentos/Livia e Guilerme 02.09.17/Marcelo
+./casamentos/Mariana e Rodrigo 28-10-2017/CAM 01 CAMILA
+./casamentos/Start_Here_Mac.app/Contents
+./casamentos/Start_Here_Mac.app/Contents/MacOS
+./casamentos/Start_Here_Mac.app/Contents/Resources
+./casamentos/Start_Here_Mac.app/Contents/_CodeSignature
+./casamentos/Sue Ellen e Elielson 15-10-2017/audios
+./casamentos/Sue Ellen e Elielson 15-10-2017/videos/Cam Caio 01
+./casamentos/Sue Ellen e Elielson 15-10-2017/videos/Cam Caio 02 Geral
+./casamentos/Sue Ellen e Elielson 15-10-2017/videos/Cam Caue Geral
+./casamentos/Sue Ellen e Elielson 15-10-2017/videos/Cam Wellington 01 Geral
+./casamentos/Sue Ellen e Elielson 15-10-2017/videos/Cam Wellington Makingof
+./casamentos/Sue Ellen e Elielson 15-10-2017/videos/Cam Wellington mesas
+./casamentos/Thais e Fernando 15.09.17/Audio
+./casamentos/Thais e Fernando 15.09.17/Audio2
+./casamentos/Thais e Fernando 15.09.17/Caue
+./casamentos/Thais e Fernando 15.09.17/Edson
+./casamentos/Thais e Fernando 15.09.17/Luiz
+./casamentos/aniversario 15 anos Fernanda_
+./casamentos/casamento_ariane_e_erick_17_02_2018/cam 02
+./casamentos/visual_cas_paola e thiago_17_06_2017/01/DCIM/100CANON
+./casamentos/visual_cas_paola e thiago_17_06_2017/01/DCIM/EOSMISC
+./casamentos/visual_cas_paola e thiago_17_06_2017/01/System Volume Information
+./casamentos/visual_cas_paola e thiago_17_06_2017/audio
+./casamentos/visual_cas_paola e thiago_17_06_2017/osmo/DCIM/100MEDIA
+./casamentos/visual_cas_paola e thiago_17_06_2017/osmo/MISC/IDX
+./casamentos/visual_cas_paola e thiago_17_06_2017/osmo/MISC/LOG
+./casamentos/visual_cas_paola e thiago_17_06_2017/osmo/MISC/THM/100
+./casamentos/visual_cas_paola e thiago_17_06_2017/osmo/System Volume Information

@@ -1,0 +1,86 @@
+.
+./.fseventsd
+./Amanda e Michael/AUDIO
+./Amanda e Michael/CAM. 01
+./Amanda e Michael/CAM. 02 A
+./Amanda e Michael/CAM. 02 B
+./Carolina e André/T5
+./Caroline e Jeferson/CAM. 01
+./Caroline e Jeferson/CAM. 02
+./Caroline e Jeferson/IMAGENS CAIO 12-12-2015
+./Caroline e Jeferson/IMAGENS CAIO 12-12-2015/AUDIO
+./Caroline e Jeferson/MUSIC
+./Elaine e Fabiano/T5
+./Fabia e Vitor
+./Fabia e Vitor/AUDIO-1
+./Fabia e Vitor/AUDIO-2
+./Fabia e Vitor/CAMILA-1/100EOS5D
+./Fabia e Vitor/CAMILA-1/101CANON
+./Fabia e Vitor/CAMILA-2
+./Fabia e Vitor/GRUA/PRIVATE/AVCHD/BDMV
+./Fabia e Vitor/GRUA/PRIVATE/AVCHD/BDMV/CLIPINF
+./Fabia e Vitor/GRUA/PRIVATE/AVCHD/BDMV/PLAYLIST
+./Fabia e Vitor/GRUA/PRIVATE/AVCHD/BDMV/STREAM
+./Fabia e Vitor/REGIS
+./Fabia e Vitor/WELLIGTOM-1
+./Fabia e Vitor/WELLIGTOM-2
+./Fernanda e Thiago
+./Gisele e Tiago/AUDIO
+./Gisele e Tiago/DEPOIMETO-
+./Gisele e Tiago/T5
+./Gislaine e Samuel
+./Karine e Diego/Audio/ZOOM0001
+./Karine e Diego/Audio/ZOOM0002
+./Karine e Diego/Audio/ZOOM0003
+./Karine e Diego/CELSO/Karine e Diego 26032016/Cartão001/DCIM/100CANON
+./Karine e Diego/CELSO/Karine e Diego 26032016/Cartão001/DCIM/EOSMISC
+./Karine e Diego/CELSO/Karine e Diego 26032016/Cartão002
+./Karine e Diego/EDSOM
+./Karine e Diego/MARCAO/Karine e Diego_26.03.2016/Audio/ZOOM0001
+./Karine e Diego/MARCAO/Karine e Diego_26.03.2016/Audio/ZOOM0002
+./Karine e Diego/MARCAO/Karine e Diego_26.03.2016/Audio/ZOOM0003
+./Karine e Diego/MARCAO/Karine e Diego_26.03.2016/Cam1
+./Mariana e Francisco/AUDIO
+./Mariana e Francisco/CAM. 01
+./Mariana e Francisco/CAM. 02
+./Natalia e Celso/1-DIA
+./Natalia e Celso/2-DIA
+./Seagate/Registration
+./Thais e Anderson/AUDIO-1
+./Thais e Anderson/AUDIO-2
+./Thais e Anderson/GOPRO/101GOPRO
+./Thais e Anderson/HELIO-1
+./Thais e Anderson/HELIO-2
+./Thais e Anderson/MARCOS
+./Thais e Anderson/WELLEGTOM-01
+./Thais e Anderson/WELLEGTOM-02
+./Thais e João/AUDIO
+./Thais e João/CÂMERA 01 CARTÃO 01
+./Thais e João/CÂMERA 01 CARTÃO 02
+./Thais e João/CÂMERA 02 CARTÃO 01
+./Thais e João/CÂMERA 02 CARTÃO 02
+./Thaisa e Vinicius/AUDIO
+./Thaisa e Vinicius/DEPOIMETO
+./Thaisa e Vinicius/T5
+./Videos_Trio e Arte/5D
+./Videos_Trio e Arte/6-D-FOTOS-E-VIDEO
+./Videos_Trio e Arte/70-D
+./Videos_Trio e Arte/AUDIO-CAIXA
+./Videos_Trio e Arte/AUDIO-MESA
+./Videos_Trio e Arte/T5I
+./Videos_Vereadores - CLP/1 DIA
+./Videos_Vereadores - CLP/AUDIO
+./presets premier/EFFECTS BY CHUNG DHA
+./presets premier/EFFECTS BY CHUNG DHA/01- ChungDha_Guides_and_letterbox/ChungDha_Guides_and_letterbox
+./presets premier/EFFECTS BY CHUNG DHA/01- ChungDha_Guides_and_letterbox/__MACOSX/ChungDha_Guides_and_letterbox
+./presets premier/EFFECTS BY CHUNG DHA/02- ChungDha_QuickGrade/ChungDha_QuickGrade
+./presets premier/EFFECTS BY CHUNG DHA/02- ChungDha_QuickGrade/__MACOSX/ChungDha_QuickGrade
+./presets premier/EFFECTS BY CHUNG DHA/03- ChungDha_ActionGrade/ChungDha_ActionGrade
+./presets premier/EFFECTS BY CHUNG DHA/03- ChungDha_ActionGrade/__MACOSX/ChungDha_ActionGrade
+./presets premier/EFFECTS BY CHUNG DHA/04- ChungDha_Vignette/ChungDha_Vignette
+./presets premier/EFFECTS BY CHUNG DHA/04- ChungDha_Vignette/__MACOSX/ChungDha_Vignette
+./presets premier/KH_Glitch_Effect_Preset_Pack.prfpset
+./presets premier/KH_Glitch_Effect_Preset_Pack.prfpset/__MACOSX
+./presets premier/KH_Luma_Fade_Transitions.prfpset
+./presets premier/KH_Luma_Fade_Transitions.prfpset/__MACOSX
+./presets premier/Smooth_Transition_1080_Presets

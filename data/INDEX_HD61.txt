@@ -1,0 +1,87 @@
+./Amanda e Caio 30.04.17-COMPLETO/Audio/ZOOM0001
+./Amanda e Caio 30.04.17-COMPLETO/Audio/ZOOM0002
+./Amanda e Caio 30.04.17-COMPLETO/Audio/ZOOM0003
+./Amanda e Caio 30.04.17-COMPLETO/Audio/ZOOM0004
+./Amanda e Caio 30.04.17-COMPLETO/Caue
+./Amanda e Caio 30.04.17-COMPLETO/Luiz
+./Amanda e Caio 30.04.17-COMPLETO/Marcos
+./Bruno e Natalia 21.04.17-COMPLETO/Audio
+./Bruno e Natalia 21.04.17-COMPLETO/Caue
+./Bruno e Natalia 21.04.17-COMPLETO/Luiz
+./Bruno e Natalia 21.04.17-COMPLETO/Wellington
+./CAS.MARCELLA-E-DANIEL-22-04-2017/AUDIO/MUSIC
+./CAS.MARCELLA-E-DANIEL-22-04-2017/LEADRAO
+./CAS.MARCELLA-E-DANIEL-22-04-2017/T5I
+./CAS.MARCELLA-E-DANIEL-22-04-2017/WELLIGTOM-70D
+./Cas_Rafaela e Raul_08_04_2017_visual/01/DCIM/100CANON
+./Cas_Rafaela e Raul_08_04_2017_visual/01/DCIM/EOSMISC
+./Cas_Rafaela e Raul_08_04_2017_visual/01/System Volume Information
+./Cas_Rafaela e Raul_08_04_2017_visual/02/DCIM/100CANON
+./Cas_Rafaela e Raul_08_04_2017_visual/02/DCIM/EOSMISC
+./Cas_Rafaela e Raul_08_04_2017_visual/02/System Volume Information
+./Cas_Rafaela e Raul_08_04_2017_visual/audio
+./Cas_Rafaela e Raul_08_04_2017_visual/osmo/DCIM/100MEDIA
+./Cas_Rafaela e Raul_08_04_2017_visual/osmo/MISC/IDX
+./Cas_Rafaela e Raul_08_04_2017_visual/osmo/MISC/LOG
+./Cas_Rafaela e Raul_08_04_2017_visual/osmo/MISC/THM/100
+./Cas_Rafaela e Raul_08_04_2017_visual/osmo/System Volume Information
+./Danyelle e Daniel 22.04.17 Neno e Luiz/Audio
+./Danyelle e Daniel 22.04.17 Neno e Luiz/Luiz
+./Danyelle e Daniel 22.04.17 Neno e Luiz/Neno
+./Fernanda e Rafael 22.04.17/Audio
+./Fernanda e Rafael 22.04.17/Caue
+./Fernanda e Rafael 22.04.17/Josué
+./Fotos 2017/Carol e Gabriel 06-05-2017/cam 01
+./Fotos 2017/Carol e Gabriel 06-05-2017/cam 02
+./Fotos 2017/DANIEL E MARCELA 22-04/CAM 02/02
+./Fotos 2017/DANIEL E MARCELA 22-04/CAM-01-PARTE-1
+./Fotos 2017/DANIEL E MARCELA 22-04/CAM-O1-PARTE-2
+./Fotos 2017/FOTOS-Natalia-Bruno-21-04-2017/CAM-3
+./Fotos 2017/Fotos Diego e Monique 22.04.17/Diego (Karina e Leandro)/CAM1
+./Fotos 2017/Fotos Diego e Monique 22.04.17/Diego (Karina e Leandro)/CAM1/cam 2
+./Fotos 2017/Fotos Diego e Monique 22.04.17/Diego (Karina e Leandro)/CAM2
+./Fotos 2017/Fotos Diego e Monique 22.04.17/Diego (Karina e Leandro)/CAM2/cam 3
+./Fotos 2017/Fotos Diego e Monique 22.04.17/Monique/CAM1
+./Fotos 2017/Fotos Diego e Monique 22.04.17/Monique/CAM2
+./Juliana e Bruno_20_04_2017/01/DCIM/100CANON
+./Juliana e Bruno_20_04_2017/01/DCIM/EOSMISC
+./Juliana e Bruno_20_04_2017/01/System Volume Information
+./Juliana e Bruno_20_04_2017/Osmo/DCIM/100MEDIA
+./Juliana e Bruno_20_04_2017/Osmo/MISC/IDX
+./Juliana e Bruno_20_04_2017/Osmo/MISC/LOG
+./Juliana e Bruno_20_04_2017/Osmo/MISC/THM/100
+./Juliana e Bruno_20_04_2017/Osmo/System Volume Information
+./Juliana e Bruno_20_04_2017/audio
+./Karina e Leandro_22_04_2017/01/DCIM/100CANON
+./Karina e Leandro_22_04_2017/01/DCIM/EOSMISC
+./Karina e Leandro_22_04_2017/01/System Volume Information
+./Karina e Leandro_22_04_2017/02/DCIM/100CANON
+./Karina e Leandro_22_04_2017/02/DCIM/EOSMISC
+./Karina e Leandro_22_04_2017/02/System Volume Information
+./Karina e Leandro_22_04_2017/03
+./Karina e Leandro_22_04_2017/03/DCIM/100D5200
+./Karina e Leandro_22_04_2017/03/System Volume Information
+./Karina e Leandro_22_04_2017/CAMILA-1
+./Karina e Leandro_22_04_2017/CAMILA-2
+./Karina e Leandro_22_04_2017/CAMILA-3
+./Karina e Leandro_22_04_2017/audio
+./LUAM/01/DCIM/100CANON
+./LUAM/01/DCIM/EOSMISC
+./LUAM/01/System Volume Information
+./LUAM/02/DCIM/100CANON
+./LUAM/02/DCIM/EOSMISC
+./LUAM/02/System Volume Information
+./LUAM/osmo/DCIM/100MEDIA
+./LUAM/osmo/MISC/IDX
+./LUAM/osmo/MISC/LOG
+./LUAM/osmo/MISC/THM/100
+./LUAM/osmo/System Volume Information
+./Laura e Wagner 29.04.17/Audio
+./Laura e Wagner 29.04.17/Caue
+./Laura e Wagner 29.04.17/Edson
+./Laura e Wagner 29.04.17/Pedro
+./Nayara e Erickson 28.04.17/Audio
+./Nayara e Erickson 28.04.17/Caue
+./Nayara e Erickson 28.04.17/Edson
+./Nayara e Erickson 28.04.17/Luiz
+./Seagate/Registration

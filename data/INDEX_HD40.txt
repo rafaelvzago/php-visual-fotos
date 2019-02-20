@@ -1,0 +1,42 @@
+.
+./.fseventsd
+./ARTES/VISUAL FOTO STUDIO/VIDEO VISUAL/Adobe Premiere Pro Auto-Save
+./Aline e Guilherme 17.02.17/Audio1
+./Aline e Guilherme 17.02.17/Audio2
+./Aline e Guilherme 17.02.17/Caue
+./Aline e Guilherme 17.02.17/Edson
+./Aline e Guilherme 17.02.17/Neno
+./Bruna e Alex 18.02.17 NENO
+./CAS.JULIANA-E-BRUNO-20-04-2017/CELSO
+./CAS.JULIANA-E-BRUNO-20-04-2017/LEADRAO
+./CAS.MARIANA-E-WANDERSOM-29-04-2017/AUDIO/MUSIC
+./CAS.MARIANA-E-WANDERSOM-29-04-2017/LEADRAO
+./CAS.MARIANA-E-WANDERSOM-29-04-2017/T5I
+./CAS.MARIANA-E-WANDERSOM-29-04-2017/WELLIGTOM
+./CAS.RAFAELLA-E-RAUL-08-04-2017/AUDIO-2/MUSIC
+./CAS.RAFAELLA-E-RAUL-08-04-2017/EDSOM
+./CAS.RAFAELLA-E-RAUL-08-04-2017/WELLIGTOM
+./CAS.SUZANA-E-ERIKE-18-02-2017/AUDIO/MUSIC
+./CAS.SUZANA-E-ERIKE-18-02-2017/CELSO-1
+./CAS.SUZANA-E-ERIKE-18-02-2017/CELSO-2
+./CAS.SUZANA-E-ERIKE-18-02-2017/CELSO-3
+./CAS.SUZANA-E-ERIKE-18-02-2017/LEADRAO
+./Cassia e Marcel 18.02.17/Audio1
+./Cassia e Marcel 18.02.17/Audio2
+./Cassia e Marcel 18.02.17/Caue
+./Cassia e Marcel 18.02.17/Luiz
+./Cassia e Marcel 18.02.17/Marcos
+./Daniela e Elton 11.03.17/Audio
+./Daniela e Elton 11.03.17/Caue
+./Daniela e Elton 11.03.17/Luiz
+./Daniela e Elton 11.03.17/Neno
+./Joyce e Mauricio 11.02.17/Audio1
+./Joyce e Mauricio 11.02.17/Audio2
+./Joyce e Mauricio 11.02.17/Caue
+./Joyce e Mauricio 11.02.17/Luiz
+./Joyce e Mauricio 11.02.17/Neno
+./Julia e Guilherme 04.03.17/Audio
+./Julia e Guilherme 04.03.17/Caue
+./Julia e Guilherme 04.03.17/Luiz
+./Julia e Guilherme 04.03.17/Marcos
+./Seagate/Registration

@@ -1,0 +1,76 @@
+.
+./$RECYCLE.BIN
+./$RECYCLE.BIN/$RBK9G1W
+./.Spotlight-V100
+./.Spotlight-V100/Store-V1
+./.Spotlight-V100/Store-V2/F17A4F76-3A8B-4786-BA62-5B0108505D87
+./.Spotlight-V100/Store-V2/F17A4F76-3A8B-4786-BA62-5B0108505D87/journals.live
+./.Spotlight-V100/Store-V2/F17A4F76-3A8B-4786-BA62-5B0108505D87/journals.scan
+./.TemporaryItems
+./Finalizados e Alterados - Stephanie e Douglas
+./System Volume Information
+./casamento_Camila e Joao Claudio
+./casamento_Camila e Joao Claudio/AUDIO
+./casamento_Camila e Joao Claudio/CAM LEANDRO - NX5
+./casamento_Camila e Joao Claudio/CAM RICARDO - 5D
+./casamento_Camila e Joao Claudio/CAM RICARDO - 7D
+./casamento_Elza e Eduardo
+./casamento_Elza e Eduardo/CAM CELSO - SONY NX5
+./casamento_Elza e Eduardo/CAM CELSO - SONY NX5/private
+./casamento_Elza e Eduardo/CAM CELSO - SONY NX5/private/AVCHD/BDMV
+./casamento_Elza e Eduardo/CAM CELSO - SONY NX5/private/AVCHD/BDMV/CLIPINF
+./casamento_Elza e Eduardo/CAM CELSO - SONY NX5/private/AVCHD/BDMV/PLAYLIST
+./casamento_Elza e Eduardo/CAM CELSO - SONY NX5/private/AVCHD/BDMV/STREAM
+./casamento_Elza e Eduardo/CAM EDSON - 7D
+./casamento_Janaina e Paulo
+./casamento_Janaina e Paulo/AUDIO
+./casamento_Janaina e Paulo/CAM CAMILA - RICARDO - 5D
+./casamento_Janaina e Paulo/CAM MAYRA - RICARDO - 7D
+./casamento_Janaina e Paulo/CAM RICARDO - CAMILA - MAIKON - NX5
+./casamento_Janaina e Wilson/AUDIO
+./casamento_Janaina e Wilson/CAM LEANDRO - NX5
+./casamento_Janaina e Wilson/CAM RICARDO - 5D
+./casamento_Janaina e Wilson/CAM RICARDO - 7D
+./casamento_Juliana e Adriano
+./casamento_Juliana e Adriano/CAM EVALDO - SONY PEQUENA
+./casamento_Juliana e Adriano/CAM EVALDO - SONY PEQUENA/AVCHD/BDMV
+./casamento_Juliana e Adriano/CAM EVALDO - SONY PEQUENA/AVCHD/BDMV/CLIPINF
+./casamento_Juliana e Adriano/CAM EVALDO - SONY PEQUENA/AVCHD/BDMV/PLAYLIST
+./casamento_Juliana e Adriano/CAM EVALDO - SONY PEQUENA/AVCHD/BDMV/STREAM
+./casamento_Juliana e Adriano/CAM RICARDO - SONY/CARTAO 1
+./casamento_Juliana e Adriano/CAM RICARDO - SONY/CARTAO 1/PRIVATE
+./casamento_Juliana e Adriano/CAM RICARDO - SONY/CARTAO 1/PRIVATE/AVCHD/BDMV
+./casamento_Juliana e Adriano/CAM RICARDO - SONY/CARTAO 1/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Juliana e Adriano/CAM RICARDO - SONY/CARTAO 1/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Juliana e Adriano/CAM RICARDO - SONY/CARTAO 1/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Juliana e Adriano/CAM SOZINHA - 5D
+./casamento_Keila e Diogo
+./casamento_Keila e Diogo/AUDIO
+./casamento_Keila e Diogo/CAM LEANDRO - NX5
+./casamento_Keila e Diogo/CAM RICARDO - 5D
+./casamento_Keila e Diogo/CAM RICARDO - 7D
+./casamento_Leticia e Pablo/AUDIO
+./casamento_Leticia e Pablo/CAM LEANDRO - NX5
+./casamento_Leticia e Pablo/CAM RICARDO - 7D
+./casamento_Leticia e Pablo/CAM RICARDO - LEANDRO  - 5D
+./casamento_Licene e Vitor
+./casamento_Licene e Vitor/AUDIO
+./casamento_Licene e Vitor/CAM LEANDRINHO - 3Ti
+./casamento_Licene e Vitor/CAM LEANDRINHO - 5D
+./casamento_Licene e Vitor/CAM LEANDRINHO - 7D SLIDER
+./casamento_Licene e Vitor/CAM LEANDRO MEIRA - NX5
+./casamento_Natalia e Guilherme
+./casamento_Natalia e Guilherme/AUDIO
+./casamento_Natalia e Guilherme/CAM LEANDRO - NX5
+./casamento_Natalia e Guilherme/CAM RICARDO - 5D
+./casamento_Natalia e Guilherme/CAM RICARDO - 7D
+./casamento_Paola e Rafael
+./casamento_Paola e Rafael/AUDIO
+./casamento_Paola e Rafael/CAM LEANDRO - NX5
+./casamento_Paola e Rafael/CAM RICARDO - 5D
+./casamento_Paola e Rafael/CAM RICARDO - 7D
+./casamento_Tailine e Tiago
+./casamento_Tailine e Tiago/AUDIO
+./casamento_Tailine e Tiago/CAM LEANDRO MEIRA - NX5
+./casamento_Tailine e Tiago/CAM RICARDO - 5D
+./casamento_Tailine e Tiago/CAM RICARDO - 7D

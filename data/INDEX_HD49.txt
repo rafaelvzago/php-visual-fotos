@@ -1,0 +1,79 @@
+./Casamento Samanta e Kelvin/Audio
+./Casamento Samanta e Kelvin/Cartão01/DCIM/100CANON
+./Casamento Samanta e Kelvin/Cartão01/DCIM/EOSMISC
+./Casamento Samanta e Kelvin/Cartão02/DCIM/100CANON
+./Casamento Samanta e Kelvin/Cartão02/DCIM/EOSMISC
+./Casamento_Ana Célia e Gustavo/5D
+./Casamento_Ana Célia e Gustavo/AUDIO
+./Casamento_Ana Célia e Gustavo/CAIO 1
+./Casamento_Ana Célia e Gustavo/CAIO 2
+./Casamento_Ana Célia e Gustavo/CAM CELSO/CASAMENTO CELSO NÃO DELETAR ANA CELIA E GUSTAVO/AUDIO
+./Casamento_Ana Célia e Gustavo/CAM CELSO/CASAMENTO CELSO NÃO DELETAR ANA CELIA E GUSTAVO/CARTÃO 1
+./Casamento_Ana Célia e Gustavo/CAM CELSO/CASAMENTO CELSO NÃO DELETAR ANA CELIA E GUSTAVO/cartão 02
+./Casamento_Ana Célia e Gustavo/EDSON 1
+./Casamento_Ana Célia e Gustavo/EDSON 2
+./Casamento_Beatriz e Diogo/AUDIO
+./Casamento_Beatriz e Diogo/EDSON
+./Casamento_Beatriz e Diogo/GOPRO
+./Casamento_Beatriz e Diogo/IGOR 1
+./Casamento_Beatriz e Diogo/IGOR 2
+./Casamento_Beatriz e Diogo/IGOR 3
+./Casamento_Beatriz e Diogo/REGIS/PRIVATE/AVCHD/BDMV
+./Casamento_Beatriz e Diogo/REGIS/PRIVATE/AVCHD/BDMV/CLIPINF
+./Casamento_Beatriz e Diogo/REGIS/PRIVATE/AVCHD/BDMV/PLAYLIST
+./Casamento_Beatriz e Diogo/REGIS/PRIVATE/AVCHD/BDMV/STREAM
+./Casamento_Beatriz e Diogo/REGIS/PRIVATE/SONY
+./Casamento_Felipe e Virginia/Audio
+./Casamento_Felipe e Virginia/Cartão001/DCIM/100CANON
+./Casamento_Felipe e Virginia/Cartão001/DCIM/EOSMISC
+./Casamento_Felipe e Virginia/Cartão002/DCIM/100CANON
+./Casamento_Felipe e Virginia/Cartão002/DCIM/EOSMISC
+./Casamento_Felipe e Virginia/Cartão003/DCIM/100CANON
+./Casamento_Felipe e Virginia/Cartão003/DCIM/101CANON
+./Casamento_Felipe e Virginia/Cartão003/DCIM/EOSMISC
+./Casamento_Felipe e Virginia/Go Pro
+./Casamento_Juliana e Daniel/Audio
+./Casamento_Juliana e Daniel/Cartão01/DCIM/100CANON
+./Casamento_Juliana e Daniel/Cartão01/DCIM/EOSMISC
+./Casamento_Juliana e Daniel/Cartão02/DCIM/100CANON
+./Casamento_Juliana e Daniel/Cartão02/DCIM/EOSMISC
+./Casamento_Maria Perez e Welington/EDSON
+./Casamento_Natalia e Rodrigo/5D
+./Casamento_Natalia e Rodrigo/AUDIO/STEREO/Cartão 002
+./Casamento_Natalia e Rodrigo/AUDIO/STEREO/FOLDER01
+./Casamento_Natalia e Rodrigo/CAMILA 1
+./Casamento_Natalia e Rodrigo/CAMILA 2
+./Casamento_Natalia e Rodrigo/CELSO 1
+./Casamento_Natalia e Rodrigo/CELSO 2
+./Casamento_Stephanie e Douglas/Audio
+./Casamento_Stephanie e Douglas/Cartão 001/DCIM/100CANON
+./Casamento_Stephanie e Douglas/Cartão 001/DCIM/EOSMISC
+./Casamento_Stephanie e Douglas/Cartão 002/DCIM/100CANON
+./Casamento_Stephanie e Douglas/Cartão 002/DCIM/101CANON
+./Casamento_Stephanie e Douglas/Cartão 002/DCIM/EOSMISC
+./Casamento_Stephanie e Douglas/Cartão 003/DCIM/100CANON
+./Casamento_Stephanie e Douglas/Cartão 003/DCIM/EOSMISC
+./Casamento_Thais e João/CAMILA 1
+./Casamento_Thais e João/CAMILA 2
+./Casamento_Thaisa e Wellington/5d
+./Casamento_Thaisa e Wellington/AUDIO
+./Casamento_Thaisa e Wellington/CAMERA CAIO
+./Casamento_Thaisa e Wellington/CAMERA CAIO 2
+./Casamento_Thaisa e Wellington/CAMERA EDSON
+./Casamento_Thaisa e Wellington/T5i CLAUDIELLE
+./Fuison_Bruna e Bruno/AUDIO
+./Fuison_Bruna e Bruno/CAM 1
+./Fuison_Bruna e Bruno/CAM IMAGENS E DEPOIMENTO
+./Fusion_Aline e Edson/AUDIO
+./Fusion_Aline e Edson/CAIO
+./Fusion_Aline e Edson/CAM 2
+./Fusion_Aline e Edson/TIME LAPSO
+./Fusion_Beatriz e Diego/CAIO
+./Fusion_Denise e Felipe/AUDIO
+./Fusion_Denise e Felipe/CAM 01
+./Fusion_Denise e Felipe/CAM 02
+./Fusion_Wilker e Mayara ( Guarujá )/CAIO
+./Fusion_Wilker e Mayara ( Guarujá )/audio
+./Fusion_Wilker e Mayara ( Guarujá )/depoimento 1
+./Fusion_Wilker e Mayara ( Guarujá )/depoimneto 2
+./Seagate/Registration

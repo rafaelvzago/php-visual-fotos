@@ -1,0 +1,45 @@
+.
+./Alexsandro Mariana 06.05.17/Audio
+./Alexsandro Mariana 06.05.17/Caue
+./Alexsandro Mariana 06.05.17/Luiz
+./Aline e Renato 27.05.17/Audio
+./Aline e Renato 27.05.17/Guto
+./Aline e Renato 27.05.17/Jaja
+./Aline e Renato 27.05.17/Luiz
+./Cecilia e Leandro 27.05.17 FOTOS/CAM1
+./Cecilia e Leandro 27.05.17 FOTOS/CAM2
+./Cecilia e Leandro 27.05.17/Audio
+./Cecilia e Leandro 27.05.17/Caue
+./Cecilia e Leandro 27.05.17/Josue
+./Cecilia e Leandro 27.05.17/Neno
+./Giovanna 05.05.17/Audio
+./Giovanna 05.05.17/Caue
+./Giovanna 05.05.17/Luiz
+./Giovanna 05.05.17/Marcos
+./Jaqueline e Luis Fernando 17.06.17/Neno/Neno
+./Jaqueline e Luis Fernando 17.06.17/Renato/DSLR
+./Jaqueline e Luis Fernando 17.06.17/Renato/Osmo
+./Larissa e Caio 26.05.17/Audio
+./Larissa e Caio 26.05.17/Caue
+./Larissa e Caio 26.05.17/Luiz
+./Larissa e Caio 26.05.17/Marcao
+./Marcel e Gabi 13.05.17/Audio
+./Marcel e Gabi 13.05.17/Caue
+./Marcel e Gabi 13.05.17/Luiz
+./Natalia e Anderson 17.06.17/Audio
+./Natalia e Anderson 17.06.17/Caue
+./Natalia e Anderson 17.06.17/Guto
+./Natalia e Anderson 17.06.17/Wellington
+./Renata e Pedro 19.05.17/Audio
+./Renata e Pedro 19.05.17/Caue
+./Renata e Pedro 19.05.17/Neno
+./Seagate/Registration
+./Start_Here_Mac.app/Contents
+./Start_Here_Mac.app/Contents/MacOS
+./Start_Here_Mac.app/Contents/Resources
+./Start_Here_Mac.app/Contents/_CodeSignature
+./Tais e Raphael 20.05.17 FOTOS/CAM1
+./Tais e Raphael 20.05.17 FOTOS/Fotos Diego
+./Tais e Raphael 20.05.17/Audio
+./Tais e Raphael 20.05.17/Caue
+./Tais e Raphael 20.05.17/Luiz

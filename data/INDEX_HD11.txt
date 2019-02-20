@@ -1,0 +1,84 @@
+.
+./Casamento Abikeila e Isac/5D CAMILA 1
+./Casamento Abikeila e Isac/5D CAMILA 2
+./Casamento Abikeila e Isac/70D EDSON 1
+./Casamento Abikeila e Isac/70D EDSON 2
+./Casamento Abikeila e Isac/70D EDSON 3
+./Casamento Abikeila e Isac/AUDIO
+./Casamento Abikeila e Isac/GO PRO
+./Casamento Abikeila e Isac/t51
+./casamento_Daniela e Tiago/5D
+./casamento_Daniela e Tiago/6D/1
+./casamento_Daniela e Tiago/6D/2
+./casamento_Daniela e Tiago/Audio
+./casamento_Daniela e Tiago/T5I
+./casamento_Gabriela e Diogenes
+./casamento_Gabriela e Diogenes/5D
+./casamento_Gabriela e Diogenes/7D
+./casamento_Gabriela e Diogenes/AUDIO
+./casamento_Gabriela e Diogenes/NX5 - LEANDRAO
+./casamento_Gabriela e Diogenes/NX5 - LEANDRAO/PRIVATE
+./casamento_Gabriela e Diogenes/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV
+./casamento_Gabriela e Diogenes/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Gabriela e Diogenes/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Gabriela e Diogenes/NX5 - LEANDRAO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Jessica e Beto
+./casamento_Jessica e Beto/ALEXANDRE 01
+./casamento_Jessica e Beto/ALEXANDRE 02
+./casamento_Jessica e Beto/ALEXANDRE 03
+./casamento_Jessica e Beto/EDSON 01
+./casamento_Jessica e Beto/EDSON 02
+./casamento_Jessica e Beto/LUAN MELO 1
+./casamento_Jessica e Beto/LUAN MELO 2
+./casamento_Jessica e Beto/LUAN MELO 3
+./casamento_Jessica e Beto/tascam gravador studio - ruim
+./casamento_Karina e Renato
+./casamento_Karina e Renato/5d
+./casamento_Karina e Renato/7D
+./casamento_Karina e Renato/AUDIO
+./casamento_Karina e Renato/NX5-LEANDRINHO
+./casamento_Karina e Renato/NX5-LEANDRINHO/PRIVATE
+./casamento_Karina e Renato/NX5-LEANDRINHO/PRIVATE/AVCHD/BDMV
+./casamento_Karina e Renato/NX5-LEANDRINHO/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Karina e Renato/NX5-LEANDRINHO/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Karina e Renato/NX5-LEANDRINHO/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Miriam e Alberto
+./casamento_Miriam e Alberto/5D
+./casamento_Miriam e Alberto/7D
+./casamento_Miriam e Alberto/AUDIO
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 1
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 1/private
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 1/private/AVCHD/BDMV
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 1/private/AVCHD/BDMV/CLIPINF
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 1/private/AVCHD/BDMV/PLAYLIST
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 1/private/AVCHD/BDMV/STREAM
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 2
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 2/PRIVATE
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 2/PRIVATE/AVCHD/BDMV
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 2/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 2/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Miriam e Alberto/NX5 - LEANDRINHO - RICARDO/CARTAO 2/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Samara e Leandro/5D
+./casamento_Samara e Leandro/5D CAMILA
+./casamento_Samara e Leandro/5D CAMILA 2
+./casamento_Samara e Leandro/AUDIO
+./casamento_Samara e Leandro/CELSO 1
+./casamento_Samara e Leandro/CELSO 2
+./casamento_Samara e Leandro/GOPRO
+./fusion_Cintia e Wagner/AUDIO CINTIA E DOI S JUNTOS
+./fusion_Cintia e Wagner/AUDIO WAGNER
+./fusion_Cintia e Wagner/CAM 02
+./fusion_Cintia e Wagner/CAM 1
+./fusion_Daniellen e Henrique/1
+./fusion_Daniellen e Henrique/2
+./fusion_Fernanda e Nino/5D PARTE 1
+./fusion_Fernanda e Nino/5D PARTE 2
+./fusion_Fernanda e Nino/70 D
+./fusion_Tais e Rodrigo/100CANON
+./fusion_Tais e Rodrigo/5D
+./fusion_Tais e Rodrigo/70D
+./fusion_Tais e Rodrigo/AUDIO
+./fusion_Victor e Luana/5D
+./fusion_Victor e Luana/70D
+./fusion_Victor e Luana/audio

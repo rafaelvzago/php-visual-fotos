@@ -1,0 +1,108 @@
+.
+./FUSION - LETICIA E IVAN
+./MARIA CRISTINA E MARCOS/100GOPRO
+./Teen Session Julia Selicani
+./casamento_Ana Julia e Cesar/5D CAIO 1
+./casamento_Ana Julia e Cesar/5D CAIO 2
+./casamento_Ana Julia e Cesar/70D EDSON 1
+./casamento_Ana Julia e Cesar/70D FINAL FESTA
+./casamento_Ana Julia e Cesar/ALEXANDRE
+./casamento_Ana Julia e Cesar/AUDIO ALE
+./casamento_Ana Julia e Cesar/AUDIO DR040
+./casamento_Ana Julia e Cesar/T5I
+./casamento_Cintia e Wagner
+./casamento_Cintia e Wagner/CARTAO 1
+./casamento_Cintia e Wagner/CARTAO 2
+./casamento_Cintia e Wagner/CARTAO 3
+./casamento_Cintia e Wagner/CARTAO 4
+./casamento_Cintia e Wagner/CARTAO 5
+./casamento_Cintia e Wagner/CARTAO 6
+./casamento_Cintia e Wagner/CARTAO 7
+./casamento_Debora e Leo/AUDIO ALE
+./casamento_Debora e Leo/AUDIO CELSO
+./casamento_Debora e Leo/CAIO 6D 1
+./casamento_Debora e Leo/CAIO 6D 2
+./casamento_Debora e Leo/CAIO 6D 3
+./casamento_Debora e Leo/CAM ALE
+./casamento_Debora e Leo/CELSO 1
+./casamento_Debora e Leo/CELSO 2
+./casamento_Denise e thiago/5D
+./casamento_Denise e thiago/7D
+./casamento_Denise e thiago/AUDIO
+./casamento_Denise e thiago/FOTOS ALIANCA - LIVIA
+./casamento_Denise e thiago/NX5/PASTA 1
+./casamento_Denise e thiago/NX5/PASTA 1/AVF_INFO
+./casamento_Denise e thiago/NX5/PASTA 1/PRIVATE/AVCHD/BDMV
+./casamento_Denise e thiago/NX5/PASTA 1/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Denise e thiago/NX5/PASTA 1/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Denise e thiago/NX5/PASTA 1/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Denise e thiago/NX5/PASTA 2
+./casamento_Denise e thiago/NX5/PASTA 2/.Spotlight-V100
+./casamento_Denise e thiago/NX5/PASTA 2/.Spotlight-V100/Store-V1
+./casamento_Denise e thiago/NX5/PASTA 2/.Spotlight-V100/Store-V2/866C8169-A1F4-446D-91E5-FD64C5414A06
+./casamento_Denise e thiago/NX5/PASTA 2/.Spotlight-V100/Store-V2/866C8169-A1F4-446D-91E5-FD64C5414A06/journals.live
+./casamento_Denise e thiago/NX5/PASTA 2/.Spotlight-V100/Store-V2/866C8169-A1F4-446D-91E5-FD64C5414A06/journals.scan
+./casamento_Denise e thiago/NX5/PASTA 2/AVF_INFO
+./casamento_Denise e thiago/NX5/PASTA 2/PRIVATE/AVCHD/BDMV
+./casamento_Denise e thiago/NX5/PASTA 2/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Denise e thiago/NX5/PASTA 2/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Denise e thiago/NX5/PASTA 2/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Erica e Michel/AUDIO
+./casamento_Erica e Michel/CAMILA 1
+./casamento_Erica e Michel/CAMILA 2
+./casamento_Erica e Michel/CELSO 1
+./casamento_Erica e Michel/CELSO 2
+./casamento_Erica e Michel/EDSON 1
+./casamento_Leticia e Ivan/CAM LEANDRO - NX5
+./casamento_Leticia e Ivan/CAM RICARDO - 5D
+./casamento_Leticia e Ivan/CAM RICARDO - 7D
+./casamento_Marina e Tinho/AUDIO
+./casamento_Marina e Tinho/CAIO 5D 1
+./casamento_Marina e Tinho/CAIO 5D 2
+./casamento_Marina e Tinho/EDSON 70D
+./casamento_Marina e Tinho/GOPRO
+./casamento_Marina e Tinho/IGOR 5DMARK3 1
+./casamento_Marina e Tinho/IGOR 5DMARK3 2
+./casamento_Marina e Tinho/MARK3 FESTA
+./casamento_Marina e Tinho/T51
+./casamento_Paulo e Natalia/5D 1
+./casamento_Paulo e Natalia/5D 2
+./casamento_Paulo e Natalia/AUDIO DR040
+./casamento_Paulo e Natalia/CAM CELSO 1
+./casamento_Paulo e Natalia/CELSO 2
+./casamento_Paulo e Natalia/T5I
+./casamento_Tatiane e Nelson/70D EDSON
+./casamento_Tatiane e Nelson/AUDIO
+./casamento_Tatiane e Nelson/AUDIO CELSO
+./casamento_Tatiane e Nelson/Alexandre
+./casamento_Tatiane e Nelson/Audio gravador 2/tati e nelson
+./casamento_Tatiane e Nelson/CELSO 1
+./casamento_Tatiane e Nelson/CELSO 2
+./casamento_Tatiane e Nelson/CELSO 3
+./casamento_Tatiane e Nelson/GOPRO
+./casamento_Tatiane e Pico/ALE 1/100D5200
+./casamento_Tatiane e Pico/ALE 2/PRIVATE/AVCHD/BDMV
+./casamento_Tatiane e Pico/ALE 2/PRIVATE/AVCHD/BDMV/CLIPINF
+./casamento_Tatiane e Pico/ALE 2/PRIVATE/AVCHD/BDMV/PLAYLIST
+./casamento_Tatiane e Pico/ALE 2/PRIVATE/AVCHD/BDMV/STREAM
+./casamento_Tatiane e Pico/AUDIO
+./casamento_Tatiane e Pico/Cam Dimas/parte 01/100CANON
+./casamento_Tatiane e Pico/Cam Dimas/parte 01/EOSMISC
+./casamento_Tatiane e Pico/Cam Dimas/parte p02/DCIM/100CANON
+./casamento_Tatiane e Pico/Cam Dimas/parte p02/DCIM/EOSMISC
+./casamento_Tatiane e Pico/ENSAIO APÓS CASAMENTO
+./casamento_Thais e Saulo/CONRADO
+./casamento_Thais e Saulo/CONRADO/Cartao 1
+./casamento_Thais e Saulo/CONRADO/Cartao 2
+./casamento_Thais e Saulo/CONRADO/Cartao 3
+./casamento_Thais e Saulo/CONRADO/Cartao 4
+./casamento_Thais e Saulo/CONRADO/Cartao 5
+./casamento_Thais e Saulo/CONRADO/Cartao 6
+./casamento_Thais e Saulo/Gopro
+./fusion_Leticia e Kauan/5D
+./fusion_Leticia e Kauan/70D
+./fusion_Leticia e Kauan/70D 2DIA
+./fusion_Leticia e Kauan/AUDIO
+./fusion_Marina e Tinho/6D
+./fusion_Marina e Tinho/70D
+./fusion_Marina e Tinho/AUDIO
